@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="referrer" content="no-referrer" />
+    <title>Entrar — Doca</title>
+    <link rel="icon" href="/static/img/icone.svg" type="image/svg+xml" />
+    <link rel="preload" href="/static/fonts/archivo.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="/static/css/base.css" />
+    <link rel="stylesheet" href="/static/css/login.css" />
+    <script type="module" src="/static/js/login.js"></script>
+  </head>
+  <body class="tela-login">
+    <main class="login">
+      <div class="login-marca">
+        <img src="/static/img/icone.svg" alt="" width="32" height="32" />
+        <div>
+          <strong>Doca</strong>
+          <span>Pedidos e estoque</span>
+        </div>
+      </div>
+      <section class="login-form">
+        <h1>Entrar</h1>
+        <p class="mudo">Use o usuário e a senha fornecidos pela gerência.</p>
+        <div class="erro-form" id="erro" role="alert" hidden></div>
+        <form id="form-login" novalidate>
+          <label class="campo">
+            <span>Usuário</span>
+            <input name="usuario" id="usuario" autocomplete="username" autocapitalize="none" spellcheck="false" required />
+          </label>
+          <label class="campo">
+            <span>Senha</span>
+            <span class="senha-caixa">
+              <input name="senha" id="senha" type="password" autocomplete="current-password" required />
+              <button type="button" class="icone-botao" id="mostrar" aria-label="Mostrar senha" aria-pressed="false">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8S1 12 1 12zm11 3a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+              </button>
+            </span>
+          </label>
+          <button class="botao" type="submit" id="entrar">Entrar</button>
+        </form>
+        <p class="login-rodape mudo" id="status-servidor">Verificando o servidor…</p>
+      </section>
+    </main>
+  </body>
+</html>

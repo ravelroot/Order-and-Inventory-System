@@ -1,0 +1,44 @@
+name: sistema-pedidos-estoque
+
+services:
+  banco:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_BANCO:?defina POSTGRES_BANCO no arquivo .env}
+      POSTGRES_USER: ${POSTGRES_USUARIO:?defina POSTGRES_USUARIO no arquivo .env}
+      POSTGRES_PASSWORD: ${POSTGRES_SENHA:?defina POSTGRES_SENHA no arquivo .env}
+    volumes:
+      - dados_banco:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:${PORTA_BANCO:-5432}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  api:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      banco:
+        condition: service_healthy
+    environment:
+      AMBIENTE: ${AMBIENTE:-dev}
+      DATABASE_URL: postgresql://${POSTGRES_USUARIO}:${POSTGRES_SENHA}@banco:5432/${POSTGRES_BANCO}
+      CHAVE_SECRETA: ${CHAVE_SECRETA:?defina CHAVE_SECRETA no arquivo .env}
+      CRIAR_TABELAS: "false"
+      COOKIE_SEGURO: ${COOKIE_SEGURO:-false}
+      ADMIN_USUARIO: ${ADMIN_USUARIO:-}
+      ADMIN_SENHA: ${ADMIN_SENHA:-}
+      POPULAR_DEMO: ${POPULAR_DEMO:-true}
+      SENHA_DEMO: ${SENHA_DEMO:-}
+    volumes:
+      - dados_api:/app/dados
+    ports:
+      - "127.0.0.1:${PORTA_API:-8000}:8000"
+
+volumes:
+  dados_banco:
+  dados_api:

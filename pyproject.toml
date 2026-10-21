@@ -1,0 +1,41 @@
+[project]
+name = "sistema-pedidos-estoque"
+version = "1.0.0"
+description = "Sistema de Pedidos e Controle de Estoque com FastAPI, SQLAlchemy e interface web"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 130
+target-version = "py312"
+extend-exclude = ["alembic/versions"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "S", "SIM", "C4", "RUF"]
+ignore = ["B008", "S101", "SIM905", "RUF001", "RUF002", "RUF003", "RUF012", "S311", "UP046", "SIM103"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S105", "S106"]
+"scripts/*" = ["S105"]
+"scripts/dados_ficticios.py" = ["E501"]
+"app/main.py" = ["F401"]
+"alembic/env.py" = ["F401"]
+"app/esquemas/usuarios.py" = ["S105"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["app"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+markers = ["postgres: testes que precisam de PostgreSQL de verdade (concorrência)"]
+filterwarnings = ["ignore::DeprecationWarning:starlette.*"]
+
+[tool.coverage.run]
+source = ["app"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true

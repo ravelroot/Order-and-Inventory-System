@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="referrer" content="no-referrer" />
+    <title>Doca — pedidos e estoque</title>
+    <link rel="icon" href="/static/img/icone.svg" type="image/svg+xml" />
+    <link rel="preload" href="/static/fonts/archivo.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="/static/css/base.css" />
+    <script type="module" src="/static/js/app.js"></script>
+  </head>
+  <body>
+    <div class="estrutura" id="estrutura" hidden>
+      <aside class="lateral" id="lateral"></aside>
+      <div>
+        <div class="barra-topo-movel">
+          <button class="icone-botao" id="abrir-menu" type="button" aria-label="Abrir menu" aria-controls="lateral">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+          </button>
+          <strong>Doca</strong>
+        </div>
+        <main class="conteudo" id="conteudo" tabindex="-1"></main>
+      </div>
+    </div>
+    <noscript>Ative o JavaScript para usar o painel.</noscript>
+  </body>
+</html>

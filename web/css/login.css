@@ -1,0 +1,84 @@
+.tela-login {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 40px 20px;
+}
+
+.login {
+  width: min(380px, 100%);
+  display: grid;
+  gap: 20px;
+}
+
+.login-marca {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.login-marca strong {
+  display: block;
+  font-size: var(--t-md);
+  font-weight: 650;
+  line-height: 1.1;
+}
+
+.login-marca span {
+  display: block;
+  color: var(--cinza);
+  font-size: 0.75rem;
+}
+
+.login-form {
+  display: grid;
+  gap: 16px;
+  padding: 28px;
+  background: var(--painel);
+  border: 1px solid var(--linha);
+  border-radius: var(--raio);
+}
+
+.login-form h1 {
+  font-size: var(--t-xl);
+}
+
+.login-form > p.mudo {
+  margin-top: -10px;
+  font-size: var(--t-sm);
+}
+
+.login-form form {
+  display: grid;
+  gap: 14px;
+}
+
+.login-form .botao {
+  min-height: 40px;
+  margin-top: 4px;
+}
+
+.senha-caixa {
+  position: relative;
+  display: block;
+}
+
+.senha-caixa input {
+  padding-right: 42px;
+}
+
+.senha-caixa .icone-botao {
+  position: absolute;
+  right: 1px;
+  top: 1px;
+}
+
+.login-rodape {
+  font-size: 0.75rem;
+}
+
+@media (max-width: 520px) {
+  .login-form {
+    padding: 20px;
+  }
+}
