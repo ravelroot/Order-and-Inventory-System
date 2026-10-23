@@ -259,6 +259,7 @@ Erros seguem sempre o mesmo formato:
 - **Nenhum endereço IP é gravado:** a auditoria guarda só um código HMAC irreversível da origem.
 - **CPF mascarado** para perfis operacionais; revelar o documento fica registrado na auditoria (LGPD).
 - A interface não carrega nada de fora (sem CDNs, Google Fonts ou analytics).
+- **Exportações CSV sem injeção de fórmulas:** texto que começa com `=`, `+`, `-` ou `@` sai com um apóstrofo na frente, então um produto ou cliente chamado `=HIPERLINK(...)` abre no Excel e no LibreOffice como texto, e não como fórmula. Valores numéricos não mudam.
 
 ## Testes
 

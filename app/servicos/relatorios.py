@@ -1,6 +1,7 @@
 import csv
 import io
 import math
+import re
 from collections import defaultdict
 from datetime import date, datetime, time, timedelta
 from decimal import Decimal
@@ -363,6 +364,18 @@ def dashboard(sessao: Session, agora: datetime | None = None) -> dict:
     }
 
 
+# Excel e LibreOffice tratam como fórmula a célula que começa com um destes caracteres.
+# Um nome de cliente ou produto como =HIPERLINK(...) viraria um link ativo na planilha exportada.
+_INICIO_DE_FORMULA = ("=", "+", "-", "@", "\t", "\r")
+_NUMERO = re.compile(r"-?\d+(?:[.,]\d+)?")
+
+
+def _celula_segura(valor: str) -> str:
+    if valor.startswith(_INICIO_DE_FORMULA) and not _NUMERO.fullmatch(valor):
+        return "'" + valor
+    return valor
+
+
 def para_csv(linhas: list[dict], colunas: list[tuple[str, str]]) -> str:
     saida = io.StringIO()
     saida.write("﻿")
@@ -374,6 +387,8 @@ def para_csv(linhas: list[dict], colunas: list[tuple[str, str]]) -> str:
             valor = linha.get(chave)
             if isinstance(valor, float):
                 valor = f"{valor:.2f}".replace(".", ",")
+            elif isinstance(valor, str):
+                valor = _celula_segura(valor)
             valores.append("" if valor is None else valor)
         escritor.writerow(valores)
     return saida.getvalue()

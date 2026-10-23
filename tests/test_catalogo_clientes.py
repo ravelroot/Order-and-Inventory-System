@@ -1,3 +1,6 @@
+import csv
+import io
+
 import pytest
 
 from app.utils.documentos import (
@@ -101,6 +104,17 @@ def test_exportar_produtos_csv(cenario):
     r = cenario.http.get("/api/v1/produtos/exportar", headers=cenario.h_vendedor)
     assert r.status_code == 200
     assert r.text.lstrip("﻿").splitlines()[0].startswith("SKU;Produto")
+
+
+def test_exportar_produtos_csv_neutraliza_formula(cenario):
+    nome = '=HIPERLINK("https://exemplo.invalid";"Abrir")'
+    corpo = {"sku": "FORMULA-1", "nome": nome, "categoria_id": cenario.categoria.id, "preco_venda": "10.00"}
+    assert cenario.http.post("/api/v1/produtos", json=corpo, headers=cenario.h_gerente).status_code == 201
+    r = cenario.http.get("/api/v1/produtos/exportar", headers=cenario.h_vendedor)
+    linhas = list(csv.reader(io.StringIO(r.text.lstrip("﻿")), delimiter=";"))
+    produto = next(linha for linha in linhas if linha[0] == "FORMULA-1")
+    assert produto[1] == "'" + nome
+    assert produto[5] == "10,00"
 
 
 def test_cliente_valida_documento(cenario):
