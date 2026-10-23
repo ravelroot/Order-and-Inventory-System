@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 22/10/2026 às 09:57 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 23/10/2026 às 09:55 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,55 +19,56 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 79 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,6 s |
+| Duração | 14,4 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 201.954,95 |
-| Pedidos faturados | 85 |
-| Ticket médio | R$ 2.375,94 |
-| Estoque a preço de custo | R$ 298.631,40 |
-| Unidades em estoque | 3.021 |
+| Faturamento do mês | R$ 149.252,96 |
+| Pedidos faturados | 81 |
+| Ticket médio | R$ 1.842,63 |
+| Estoque a preço de custo | R$ 214.724,82 |
+| Unidades em estoque | 2.653 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 2 |
-| Separado | 6 |
-| Faturado | 4 |
-| Enviado | 11 |
-| Entregue | 284 |
-| Cancelado | 34 |
+| Rascunho | 5 |
+| Confirmado | 11 |
+| Separado | 3 |
+| Faturado | 2 |
+| Enviado | 5 |
+| Entregue | 289 |
+| Cancelado | 28 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Smartwatch esportivo | 84 | R$ 58.782,72 | 39,2% |
-| Teclado mecânico ABNT2 Essencial azul | 82 | R$ 31.259,65 | 46,2% |
-| Memória RAM 16 GB Compacto cinza | 98 | R$ 30.861,60 | 30,7% |
-| Furadeira de impacto | 53 | R$ 19.135,65 | 51,9% |
-| Teclado mecânico ABNT2 | 35 | R$ 16.588,63 | 40,8% |
+| Smartwatch esportivo | 39 | R$ 29.165,00 | 46,9% |
+| Fone de ouvido Bluetooth | 58 | R$ 21.013,44 | 33,7% |
+| Parafusadeira a bateria | 28 | R$ 13.165,51 | 33,1% |
+| Caixa de som portátil | 30 | R$ 12.038,11 | 37,6% |
+| Monitor LED 24 pol. | 16 | R$ 11.475,95 | 29,2% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Garrafa térmica 1 L | Sem saldo | 0 | 0 dias | 23 |
-| Caderno universitário 200 fls | Sem saldo | 0 | 0 dias | 22 |
-| Bola de futebol | Acaba antes da reposição | 21 | 9 dias | 50 |
-| Carregador turbo USB-C | Acaba antes da reposição | 3 | 8 dias | 37 |
-| Caderno universitário 200 fls Plus cinza | Acaba antes da reposição | 3 | 9 dias | 12 |
+| Carregador turbo USB-C | Sem saldo | 0 | 0 dias | 41 |
+| Webcam Full HD Premium azul | Sem saldo | 0 | 0 dias | 21 |
+| Garrafa térmica 1 L | Acaba antes da reposição | 26 | 8 dias | 84 |
+| Pano de microfibra pc 5 | Acaba antes da reposição | 4 | 3 dias | 44 |
+| Hub USB-C 7 em 1 Plus branco | Acaba antes da reposição | 1 | 3 dias | 19 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 23/10/2026 | 79/79 | R$ 149.252,96 | 81 | 7 |
 | 22/10/2026 | 79/79 | R$ 201.954,95 | 85 | 7 |
 | 21/10/2026 | 79/79 | R$ 103.301,86 | 84 | 7 |
 | 20/10/2026 | 79/79 | R$ 172.687,58 | 76 | 7 |
