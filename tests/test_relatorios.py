@@ -2,7 +2,7 @@ from datetime import date
 
 import pytest
 
-from app.servicos.relatorios import intervalo_utc
+from app.servicos.relatorios import intervalo_utc, para_csv
 
 
 def _vender(c, itens):
@@ -89,3 +89,10 @@ def test_vendas_em_csv(vendas):
     linhas = r.text.lstrip("﻿").splitlines()
     assert linhas[0].startswith("Categoria;Pedidos")
     assert len(linhas) == 2 and linhas[1].startswith("Informática;2;")
+
+
+def test_csv_neutraliza_formulas_sem_mexer_em_numeros():
+    linhas = [{"texto": "@SOMA(A1:A9)", "decimal": "-12.50", "real": -3.5, "comum": "Caneta azul", "tab": "\t=1+1"}]
+    colunas = [("texto", "Texto"), ("decimal", "Decimal"), ("real", "Real"), ("comum", "Comum"), ("tab", "Tab")]
+    linha = para_csv(linhas, colunas).lstrip("\ufeff").splitlines()[1]
+    assert linha == "'@SOMA(A1:A9);-12.50;-3,50;Caneta azul;'\t=1+1"
