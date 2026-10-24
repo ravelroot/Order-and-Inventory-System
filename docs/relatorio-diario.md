@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 23/10/2026 às 09:55 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 24/10/2026 às 09:52 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -16,58 +16,60 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Indicador | Resultado |
 |---|---|
 | Situação | todos passaram |
-| Testes que passaram | 79 |
+| Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,4 s |
+| Duração | 9,3 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 149.252,96 |
-| Pedidos faturados | 81 |
-| Ticket médio | R$ 1.842,63 |
-| Estoque a preço de custo | R$ 214.724,82 |
-| Unidades em estoque | 2.653 |
+| Faturamento do mês | R$ 139.830,84 |
+| Pedidos faturados | 83 |
+| Ticket médio | R$ 1.684,71 |
+| Estoque a preço de custo | R$ 282.292,46 |
+| Unidades em estoque | 2.822 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 5 |
-| Confirmado | 11 |
-| Separado | 3 |
-| Faturado | 2 |
-| Enviado | 5 |
+| Rascunho | 6 |
+| Confirmado | 2 |
+| Separado | 5 |
+| Faturado | 4 |
+| Enviado | 9 |
 | Entregue | 289 |
-| Cancelado | 28 |
+| Cancelado | 33 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Smartwatch esportivo | 39 | R$ 29.165,00 | 46,9% |
-| Fone de ouvido Bluetooth | 58 | R$ 21.013,44 | 33,7% |
-| Parafusadeira a bateria | 28 | R$ 13.165,51 | 33,1% |
-| Caixa de som portátil | 30 | R$ 12.038,11 | 37,6% |
-| Monitor LED 24 pol. | 16 | R$ 11.475,95 | 29,2% |
+| Teclado mecânico ABNT2 | 107 | R$ 30.048,87 | 30,8% |
+| Furadeira de impacto | 96 | R$ 21.606,13 | 32,8% |
+| Monitor LED 24 pol. | 21 | R$ 16.008,30 | 50,7% |
+| Jogo de panelas 5 peças | 36 | R$ 12.777,71 | 29,8% |
+| Webcam Full HD | 50 | R$ 11.267,77 | 31,8% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Carregador turbo USB-C | Sem saldo | 0 | 0 dias | 41 |
-| Webcam Full HD Premium azul | Sem saldo | 0 | 0 dias | 21 |
-| Garrafa térmica 1 L | Acaba antes da reposição | 26 | 8 dias | 84 |
-| Pano de microfibra pc 5 | Acaba antes da reposição | 4 | 3 dias | 44 |
-| Hub USB-C 7 em 1 Plus branco | Acaba antes da reposição | 1 | 3 dias | 19 |
+| Papel sulfite A4 resma Essencial preto | Sem saldo | 0 | 0 dias | 34 |
+| Grampeador de mesa | Acaba antes da reposição | 5 | 2 dias | 74 |
+| Caixa de som portátil | Acaba antes da reposição | 2 | 2 dias | 54 |
+| Desinfetante 2 L | Acaba antes da reposição | 1 | 0 dias | 44 |
+| Tapete de yoga | Acaba antes da reposição | 26 | 15 dias | 37 |
+| Suporte para notebook Pro cinza | Acaba antes da reposição | 4 | 13 dias | 20 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 24/10/2026 | 81/81 | R$ 139.830,84 | 83 | 7 |
 | 23/10/2026 | 79/79 | R$ 149.252,96 | 81 | 7 |
 | 22/10/2026 | 79/79 | R$ 201.954,95 | 85 | 7 |
 | 21/10/2026 | 79/79 | R$ 103.301,86 | 84 | 7 |
