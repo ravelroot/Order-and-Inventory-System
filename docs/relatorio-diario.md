@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 25/10/2026 às 09:52 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 26/10/2026 às 11:55 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,56 +19,52 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,9 s |
+| Duração | 12,3 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 189.568,16 |
-| Pedidos faturados | 99 |
-| Ticket médio | R$ 1.914,83 |
-| Estoque a preço de custo | R$ 263.969,13 |
-| Unidades em estoque | 2.764 |
+| Faturamento do mês | R$ 167.415,42 |
+| Pedidos faturados | 109 |
+| Ticket médio | R$ 1.535,92 |
+| Estoque a preço de custo | R$ 227.835,57 |
+| Unidades em estoque | 2.471 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 4 |
-| Confirmado | 2 |
-| Separado | 3 |
+| Rascunho | 3 |
+| Confirmado | 0 |
+| Separado | 5 |
 | Faturado | 2 |
-| Enviado | 10 |
-| Entregue | 286 |
-| Cancelado | 41 |
+| Enviado | 5 |
+| Entregue | 306 |
+| Cancelado | 28 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Smartwatch esportivo | 51 | R$ 39.897,51 | 35,9% |
-| Mochila de trilha 30 L | 71 | R$ 18.502,63 | 50,9% |
-| SSD 480 GB Premium preto | 71 | R$ 14.439,27 | 48,0% |
-| SSD 480 GB | 37 | R$ 11.896,14 | 46,7% |
-| Teclado mecânico ABNT2 Essencial branco | 16 | R$ 6.356,84 | 47,1% |
+| Monitor LED 24 pol. Pro preto | 29 | R$ 29.589,22 | 42,2% |
+| Memória RAM 16 GB Essencial | 93 | R$ 20.857,03 | 35,8% |
+| Furadeira de impacto | 45 | R$ 14.635,14 | 49,5% |
+| Caixa de som portátil | 54 | R$ 14.127,91 | 46,9% |
+| Cafeteira elétrica | 64 | R$ 10.418,20 | 30,6% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Mochila de trilha 30 L | Acaba antes da reposição | 30 | 12 dias | 65 |
-| Pano de microfibra pc 5 | Acaba antes da reposição | 37 | 14 dias | 50 |
-| Bloco de desenho A3 | Acaba antes da reposição | 1 | 1 dias | 46 |
-| Hub USB-C 7 em 1 | Acaba antes da reposição | 1 | 1 dias | 36 |
-| Halteres 2 kg par | Acaba antes da reposição | 3 | 4 dias | 26 |
-| Papel sulfite A4 resma Compacto | Acaba antes da reposição | 3 | 6 dias | 20 |
+| Memória RAM 16 GB | Acaba antes da reposição | 4 | 8 dias | 22 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 26/10/2026 | 81/81 | R$ 167.415,42 | 109 | 7 |
 | 25/10/2026 | 81/81 | R$ 189.568,16 | 99 | 7 |
 | 24/10/2026 | 81/81 | R$ 139.830,84 | 83 | 7 |
 | 23/10/2026 | 79/79 | R$ 149.252,96 | 81 | 7 |
