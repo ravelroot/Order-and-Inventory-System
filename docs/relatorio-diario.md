@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 26/10/2026 às 11:55 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 27/10/2026 às 09:59 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,51 +19,55 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 12,3 s |
+| Duração | 10,9 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 167.415,42 |
-| Pedidos faturados | 109 |
-| Ticket médio | R$ 1.535,92 |
-| Estoque a preço de custo | R$ 227.835,57 |
-| Unidades em estoque | 2.471 |
-| Produtos abaixo do mínimo | 7 |
+| Faturamento do mês | R$ 248.082,31 |
+| Pedidos faturados | 111 |
+| Ticket médio | R$ 2.234,98 |
+| Estoque a preço de custo | R$ 289.588,46 |
+| Unidades em estoque | 2.772 |
+| Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 3 |
-| Confirmado | 0 |
-| Separado | 5 |
-| Faturado | 2 |
-| Enviado | 5 |
-| Entregue | 306 |
-| Cancelado | 28 |
+| Rascunho | 2 |
+| Confirmado | 2 |
+| Separado | 3 |
+| Faturado | 3 |
+| Enviado | 8 |
+| Entregue | 288 |
+| Cancelado | 43 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Pro preto | 29 | R$ 29.589,22 | 42,2% |
-| Memória RAM 16 GB Essencial | 93 | R$ 20.857,03 | 35,8% |
-| Furadeira de impacto | 45 | R$ 14.635,14 | 49,5% |
-| Caixa de som portátil | 54 | R$ 14.127,91 | 46,9% |
-| Cafeteira elétrica | 64 | R$ 10.418,20 | 30,6% |
+| Monitor LED 24 pol. | 27 | R$ 33.115,50 | 45,6% |
+| Teclado mecânico ABNT2 | 71 | R$ 32.492,66 | 33,2% |
+| Monitor LED 24 pol. Pro | 46 | R$ 31.975,45 | 45,6% |
+| Caixa de som portátil | 105 | R$ 28.844,51 | 36,7% |
+| Cafeteira elétrica | 55 | R$ 14.655,60 | 48,2% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Memória RAM 16 GB | Acaba antes da reposição | 4 | 8 dias | 22 |
+| Caneta esferográfica azul cx 50 | Acaba antes da reposição | 67 | 10 dias | 155 |
+| Jogo de chaves 40 peças | Acaba antes da reposição | 3 | 2 dias | 64 |
+| Marca-texto cx 6 | Acaba antes da reposição | 1 | 1 dias | 55 |
+| Lápis de cor 36 cores | Acaba antes da reposição | 5 | 9 dias | 22 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 27/10/2026 | 81/81 | R$ 248.082,31 | 111 | 6 |
 | 26/10/2026 | 81/81 | R$ 167.415,42 | 109 | 7 |
 | 25/10/2026 | 81/81 | R$ 189.568,16 | 99 | 7 |
 | 24/10/2026 | 81/81 | R$ 139.830,84 | 83 | 7 |
