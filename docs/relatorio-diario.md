@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 27/10/2026 às 09:59 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 28/10/2026 às 10:09 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,54 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 10,9 s |
+| Duração | 11,5 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 248.082,31 |
-| Pedidos faturados | 111 |
-| Ticket médio | R$ 2.234,98 |
-| Estoque a preço de custo | R$ 289.588,46 |
-| Unidades em estoque | 2.772 |
+| Faturamento do mês | R$ 168.154,82 |
+| Pedidos faturados | 109 |
+| Ticket médio | R$ 1.542,70 |
+| Estoque a preço de custo | R$ 308.915,78 |
+| Unidades em estoque | 3.047 |
 | Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 2 |
-| Separado | 3 |
-| Faturado | 3 |
-| Enviado | 8 |
-| Entregue | 288 |
-| Cancelado | 43 |
+| Rascunho | 0 |
+| Confirmado | 6 |
+| Separado | 2 |
+| Faturado | 2 |
+| Enviado | 7 |
+| Entregue | 297 |
+| Cancelado | 32 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 27 | R$ 33.115,50 | 45,6% |
-| Teclado mecânico ABNT2 | 71 | R$ 32.492,66 | 33,2% |
-| Monitor LED 24 pol. Pro | 46 | R$ 31.975,45 | 45,6% |
-| Caixa de som portátil | 105 | R$ 28.844,51 | 36,7% |
-| Cafeteira elétrica | 55 | R$ 14.655,60 | 48,2% |
+| Parafusadeira a bateria | 66 | R$ 29.719,20 | 37,4% |
+| Memória RAM 16 GB Premium azul | 46 | R$ 15.749,25 | 49,7% |
+| Memória RAM 16 GB | 59 | R$ 14.219,02 | 29,7% |
+| Smartwatch esportivo | 28 | R$ 13.426,44 | 42,5% |
+| Webcam Full HD | 59 | R$ 10.534,26 | 30,7% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Caneta esferográfica azul cx 50 | Acaba antes da reposição | 67 | 10 dias | 155 |
-| Jogo de chaves 40 peças | Acaba antes da reposição | 3 | 2 dias | 64 |
-| Marca-texto cx 6 | Acaba antes da reposição | 1 | 1 dias | 55 |
-| Lápis de cor 36 cores | Acaba antes da reposição | 5 | 9 dias | 22 |
+| Fita isolante rolo | Acaba antes da reposição | 3 | 2 dias | 63 |
+| Hub USB-C 7 em 1 | Acaba antes da reposição | 5 | 4 dias | 23 |
+| Detergente neutro 5 L | Acaba antes da reposição | 2 | 12 dias | 13 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 28/10/2026 | 81/81 | R$ 168.154,82 | 109 | 6 |
 | 27/10/2026 | 81/81 | R$ 248.082,31 | 111 | 6 |
 | 26/10/2026 | 81/81 | R$ 167.415,42 | 109 | 7 |
 | 25/10/2026 | 81/81 | R$ 189.568,16 | 99 | 7 |
