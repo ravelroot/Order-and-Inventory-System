@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 29/10/2026 às 10:10 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 30/10/2026 às 10:08 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,56 +19,53 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 11,6 s |
+| Duração | 14,6 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 192.779,47 |
-| Pedidos faturados | 122 |
-| Ticket médio | R$ 1.580,16 |
-| Estoque a preço de custo | R$ 259.843,79 |
-| Unidades em estoque | 3.060 |
+| Faturamento do mês | R$ 235.422,86 |
+| Pedidos faturados | 118 |
+| Ticket médio | R$ 1.995,11 |
+| Estoque a preço de custo | R$ 316.499,80 |
+| Unidades em estoque | 3.211 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 1 |
-| Confirmado | 2 |
-| Separado | 4 |
-| Faturado | 4 |
-| Enviado | 14 |
-| Entregue | 285 |
-| Cancelado | 35 |
+| Rascunho | 6 |
+| Confirmado | 3 |
+| Separado | 5 |
+| Faturado | 5 |
+| Enviado | 9 |
+| Entregue | 278 |
+| Cancelado | 37 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Jogo de chaves 40 peças | 298 | R$ 39.426,52 | 37,4% |
-| Memória RAM 16 GB Plus branco | 51 | R$ 19.099,80 | 35,4% |
-| Smartwatch esportivo | 43 | R$ 16.049,72 | 40,4% |
-| Monitor LED 24 pol. | 14 | R$ 11.281,21 | 30,0% |
-| Monitor LED 24 pol. Premium cinza | 8 | R$ 7.922,96 | 48,4% |
+| Jogo de panelas 5 peças | 58 | R$ 28.187,73 | 53,0% |
+| Mochila de trilha 30 L | 85 | R$ 24.041,00 | 47,3% |
+| Monitor LED 24 pol. Premium azul | 23 | R$ 21.439,91 | 51,9% |
+| Parafusadeira a bateria | 50 | R$ 19.551,53 | 48,5% |
+| Caixa de som portátil | 42 | R$ 17.004,16 | 40,1% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Detergente neutro 5 L | Sem saldo | 0 | 0 dias | 106 |
-| Hub USB-C 7 em 1 Premium | Sem saldo | 0 | 0 dias | 45 |
-| Grampeador de mesa Compacto | Acaba antes da reposição | 39 | 8 dias | 103 |
-| Papel sulfite A4 resma Premium preto | Acaba antes da reposição | 4 | 4 dias | 40 |
-| Etiquetas adesivas cx 1000 | Acaba antes da reposição | 3 | 7 dias | 22 |
-| Monitor LED 24 pol. Premium cinza | Acaba antes da reposição | 1 | 4 dias | 22 |
+| Hub USB-C 7 em 1 Essencial cinza | Acaba antes da reposição | 3 | 2 dias | 48 |
+| Garrafa squeeze 750 ml | Acaba antes da reposição | 3 | 2 dias | 34 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 30/10/2026 | 81/81 | R$ 235.422,86 | 118 | 7 |
 | 29/10/2026 | 81/81 | R$ 192.779,47 | 122 | 7 |
 | 28/10/2026 | 81/81 | R$ 168.154,82 | 109 | 6 |
 | 27/10/2026 | 81/81 | R$ 248.082,31 | 111 | 6 |
