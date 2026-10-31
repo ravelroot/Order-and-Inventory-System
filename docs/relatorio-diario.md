@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 30/10/2026 às 10:08 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 31/10/2026 às 09:59 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,52 +19,52 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,6 s |
+| Duração | 14,7 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 235.422,86 |
-| Pedidos faturados | 118 |
-| Ticket médio | R$ 1.995,11 |
-| Estoque a preço de custo | R$ 316.499,80 |
-| Unidades em estoque | 3.211 |
+| Faturamento do mês | R$ 159.235,44 |
+| Pedidos faturados | 113 |
+| Ticket médio | R$ 1.409,16 |
+| Estoque a preço de custo | R$ 271.940,51 |
+| Unidades em estoque | 3.038 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 6 |
-| Confirmado | 3 |
-| Separado | 5 |
-| Faturado | 5 |
-| Enviado | 9 |
-| Entregue | 278 |
-| Cancelado | 37 |
+| Rascunho | 3 |
+| Confirmado | 2 |
+| Separado | 8 |
+| Faturado | 7 |
+| Enviado | 5 |
+| Entregue | 291 |
+| Cancelado | 33 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Jogo de panelas 5 peças | 58 | R$ 28.187,73 | 53,0% |
-| Mochila de trilha 30 L | 85 | R$ 24.041,00 | 47,3% |
-| Monitor LED 24 pol. Premium azul | 23 | R$ 21.439,91 | 51,9% |
-| Parafusadeira a bateria | 50 | R$ 19.551,53 | 48,5% |
-| Caixa de som portátil | 42 | R$ 17.004,16 | 40,1% |
+| Parafusadeira a bateria | 52 | R$ 24.275,49 | 30,3% |
+| Teclado mecânico ABNT2 Essencial | 53 | R$ 23.801,70 | 33,5% |
+| Mochila de trilha 30 L | 54 | R$ 12.301,63 | 37,7% |
+| Monitor LED 24 pol. Essencial | 10 | R$ 8.875,00 | 41,3% |
+| Cafeteira elétrica | 52 | R$ 6.964,89 | 50,8% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Hub USB-C 7 em 1 Essencial cinza | Acaba antes da reposição | 3 | 2 dias | 48 |
-| Garrafa squeeze 750 ml | Acaba antes da reposição | 3 | 2 dias | 34 |
+| Hub USB-C 7 em 1 Premium cinza | Acaba antes da reposição | 2 | 2 dias | 30 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 31/10/2026 | 81/81 | R$ 159.235,44 | 113 | 7 |
 | 30/10/2026 | 81/81 | R$ 235.422,86 | 118 | 7 |
 | 29/10/2026 | 81/81 | R$ 192.779,47 | 122 | 7 |
 | 28/10/2026 | 81/81 | R$ 168.154,82 | 109 | 6 |
