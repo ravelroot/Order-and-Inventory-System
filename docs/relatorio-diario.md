@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 01/11/2026 às 10:00 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 02/11/2026 às 10:22 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,56 +19,55 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,4 s |
+| Duração | 14,2 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 0,00 |
-| Pedidos faturados | 0 |
-| Ticket médio | R$ 0,00 |
-| Estoque a preço de custo | R$ 347.972,33 |
-| Unidades em estoque | 3.332 |
-| Produtos abaixo do mínimo | 6 |
+| Faturamento do mês | R$ 549,90 |
+| Pedidos faturados | 1 |
+| Ticket médio | R$ 549,90 |
+| Estoque a preço de custo | R$ 334.156,21 |
+| Unidades em estoque | 3.368 |
+| Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 5 |
-| Confirmado | 0 |
-| Separado | 1 |
-| Faturado | 5 |
-| Enviado | 8 |
-| Entregue | 302 |
-| Cancelado | 29 |
+| Rascunho | 2 |
+| Confirmado | 8 |
+| Separado | 7 |
+| Faturado | 2 |
+| Enviado | 11 |
+| Entregue | 277 |
+| Cancelado | 38 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Parafusadeira a bateria | 182 | R$ 101.493,43 | 40,2% |
-| SSD 480 GB Plus preto | 120 | R$ 35.898,93 | 49,6% |
-| SSD 480 GB | 126 | R$ 31.566,60 | 38,7% |
-| Monitor LED 24 pol. Essencial preto | 28 | R$ 31.424,14 | 48,6% |
-| Mochila de trilha 30 L | 112 | R$ 25.020,81 | 33,0% |
+| Monitor LED 24 pol. | 41 | R$ 49.476,99 | 36,9% |
+| Smartwatch esportivo | 44 | R$ 23.769,00 | 41,5% |
+| Furadeira de impacto | 83 | R$ 18.445,20 | 33,3% |
+| Jogo de panelas 5 peças | 47 | R$ 15.047,18 | 50,6% |
+| Parafusadeira a bateria | 48 | R$ 12.653,75 | 43,9% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Fone de ouvido Bluetooth | Acaba antes da reposição | 2 | 1 dias | 68 |
-| Bloco de desenho A3 | Acaba antes da reposição | 2 | 6 dias | 38 |
-| Corda de pular | Acaba antes da reposição | 2 | 2 dias | 37 |
-| Papel sulfite A4 resma Essencial preto | Acaba antes da reposição | 3 | 6 dias | 31 |
-| Garrafa squeeze 750 ml | Acaba antes da reposição | 4 | 6 dias | 22 |
-| Furadeira de impacto | Acaba antes da reposição | 5 | 9 dias | 14 |
+| Faqueiro inox 24 peças | Sem saldo | 0 | 0 dias | 40 |
+| Kit pincéis artísticos | Acaba antes da reposição | 4 | 2 dias | 106 |
+| Corda de pular | Acaba antes da reposição | 5 | 4 dias | 44 |
+| Nível de bolha 40 cm | Acaba antes da reposição | 3 | 4 dias | 36 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 02/11/2026 | 81/81 | R$ 549,90 | 1 | 7 |
 | 01/11/2026 | 81/81 | R$ 0,00 | 0 | 6 |
 | 31/10/2026 | 81/81 | R$ 159.235,44 | 113 | 7 |
 | 30/10/2026 | 81/81 | R$ 235.422,86 | 118 | 7 |
