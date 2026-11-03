@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 02/11/2026 às 10:22 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 03/11/2026 às 10:17 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,54 +19,55 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,2 s |
+| Duração | 13,8 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 549,90 |
-| Pedidos faturados | 1 |
-| Ticket médio | R$ 549,90 |
-| Estoque a preço de custo | R$ 334.156,21 |
-| Unidades em estoque | 3.368 |
+| Faturamento do mês | R$ 2.530,13 |
+| Pedidos faturados | 2 |
+| Ticket médio | R$ 1.265,07 |
+| Estoque a preço de custo | R$ 203.862,66 |
+| Unidades em estoque | 2.604 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 8 |
-| Separado | 7 |
-| Faturado | 2 |
-| Enviado | 11 |
-| Entregue | 277 |
-| Cancelado | 38 |
+| Rascunho | 7 |
+| Confirmado | 3 |
+| Separado | 4 |
+| Faturado | 1 |
+| Enviado | 6 |
+| Entregue | 293 |
+| Cancelado | 33 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 41 | R$ 49.476,99 | 36,9% |
-| Smartwatch esportivo | 44 | R$ 23.769,00 | 41,5% |
-| Furadeira de impacto | 83 | R$ 18.445,20 | 33,3% |
-| Jogo de panelas 5 peças | 47 | R$ 15.047,18 | 50,6% |
-| Parafusadeira a bateria | 48 | R$ 12.653,75 | 43,9% |
+| Monitor LED 24 pol. Compacto cinza | 62 | R$ 43.796,15 | 38,6% |
+| Parafusadeira a bateria | 54 | R$ 29.773,05 | 47,0% |
+| Teclado mecânico ABNT2 | 56 | R$ 26.919,51 | 32,2% |
+| Monitor LED 24 pol. | 22 | R$ 22.961,19 | 46,6% |
+| Memória RAM 16 GB | 42 | R$ 13.524,93 | 46,2% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Faqueiro inox 24 peças | Sem saldo | 0 | 0 dias | 40 |
-| Kit pincéis artísticos | Acaba antes da reposição | 4 | 2 dias | 106 |
-| Corda de pular | Acaba antes da reposição | 5 | 4 dias | 44 |
-| Nível de bolha 40 cm | Acaba antes da reposição | 3 | 4 dias | 36 |
+| Memória RAM 16 GB | Acaba antes da reposição | 2 | 1 dias | 55 |
+| Monitor LED 24 pol. Compacto cinza | Acaba antes da reposição | 2 | 1 dias | 52 |
+| Teclado mecânico ABNT2 | Acaba antes da reposição | 23 | 12 dias | 43 |
+| Garrafa térmica 1 L | Acaba antes da reposição | 4 | 6 dias | 40 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 03/11/2026 | 81/81 | R$ 2.530,13 | 2 | 7 |
 | 02/11/2026 | 81/81 | R$ 549,90 | 1 | 7 |
 | 01/11/2026 | 81/81 | R$ 0,00 | 0 | 6 |
 | 31/10/2026 | 81/81 | R$ 159.235,44 | 113 | 7 |
