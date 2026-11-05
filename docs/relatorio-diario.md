@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 04/11/2026 às 10:19 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 05/11/2026 às 10:25 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,54 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 9,2 s |
+| Duração | 13,9 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 3.371,14 |
-| Pedidos faturados | 6 |
-| Ticket médio | R$ 561,86 |
-| Estoque a preço de custo | R$ 287.361,79 |
-| Unidades em estoque | 2.848 |
-| Produtos abaixo do mínimo | 6 |
+| Faturamento do mês | R$ 10.390,03 |
+| Pedidos faturados | 5 |
+| Ticket médio | R$ 2.078,01 |
+| Estoque a preço de custo | R$ 207.632,78 |
+| Unidades em estoque | 2.623 |
+| Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 3 |
-| Separado | 5 |
-| Faturado | 4 |
-| Enviado | 10 |
-| Entregue | 289 |
-| Cancelado | 34 |
+| Rascunho | 0 |
+| Confirmado | 2 |
+| Separado | 4 |
+| Faturado | 1 |
+| Enviado | 7 |
+| Entregue | 286 |
+| Cancelado | 46 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Premium preto | 23 | R$ 25.091,00 | 44,1% |
-| Memória RAM 16 GB | 50 | R$ 14.927,51 | 32,3% |
-| Memória RAM 16 GB Premium preto | 39 | R$ 13.063,22 | 42,6% |
-| Furadeira de impacto | 30 | R$ 11.958,40 | 53,7% |
-| Jogo de panelas 5 peças | 26 | R$ 11.819,08 | 36,9% |
+| Furadeira de impacto | 144 | R$ 34.349,68 | 51,0% |
+| Monitor LED 24 pol. | 31 | R$ 28.291,37 | 53,7% |
+| Smartwatch esportivo | 50 | R$ 21.752,52 | 33,1% |
+| Monitor LED 24 pol. Premium preto | 20 | R$ 19.176,10 | 41,1% |
+| Teclado mecânico ABNT2 | 55 | R$ 18.533,31 | 34,4% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Pote hermético kit 10 | Acaba antes da reposição | 4 | 2 dias | 66 |
-| Monitor LED 24 pol. Premium preto | Acaba antes da reposição | 1 | 1 dias | 39 |
-| Toalha de banho | Acaba antes da reposição | 2 | 5 dias | 18 |
-| Hub USB-C 7 em 1 | Acaba antes da reposição | 2 | 5 dias | 13 |
+| Toalha de banho | Acaba antes da reposição | 2 | 1 dias | 76 |
+| Etiquetas adesivas cx 1000 | Acaba antes da reposição | 53 | 14 dias | 65 |
+| Desinfetante 2 L | Acaba antes da reposição | 2 | 3 dias | 17 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 05/11/2026 | 81/81 | R$ 10.390,03 | 5 | 7 |
 | 04/11/2026 | 81/81 | R$ 3.371,14 | 6 | 6 |
 | 03/11/2026 | 81/81 | R$ 2.530,13 | 2 | 7 |
 | 02/11/2026 | 81/81 | R$ 549,90 | 1 | 7 |
