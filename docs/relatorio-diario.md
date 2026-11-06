@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 05/11/2026 às 10:25 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 06/11/2026 às 16:26 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,53 +19,57 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 13,9 s |
+| Duração | 11,5 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 10.390,03 |
-| Pedidos faturados | 5 |
-| Ticket médio | R$ 2.078,01 |
-| Estoque a preço de custo | R$ 207.632,78 |
-| Unidades em estoque | 2.623 |
-| Produtos abaixo do mínimo | 7 |
+| Faturamento do mês | R$ 34.740,44 |
+| Pedidos faturados | 17 |
+| Ticket médio | R$ 2.043,56 |
+| Estoque a preço de custo | R$ 277.897,87 |
+| Unidades em estoque | 2.872 |
+| Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 0 |
-| Confirmado | 2 |
-| Separado | 4 |
-| Faturado | 1 |
-| Enviado | 7 |
-| Entregue | 286 |
-| Cancelado | 46 |
+| Rascunho | 6 |
+| Confirmado | 4 |
+| Separado | 3 |
+| Faturado | 5 |
+| Enviado | 8 |
+| Entregue | 290 |
+| Cancelado | 28 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Furadeira de impacto | 144 | R$ 34.349,68 | 51,0% |
-| Monitor LED 24 pol. | 31 | R$ 28.291,37 | 53,7% |
-| Smartwatch esportivo | 50 | R$ 21.752,52 | 33,1% |
-| Monitor LED 24 pol. Premium preto | 20 | R$ 19.176,10 | 41,1% |
-| Teclado mecânico ABNT2 | 55 | R$ 18.533,31 | 34,4% |
+| Monitor LED 24 pol. Premium azul | 34 | R$ 40.315,23 | 42,0% |
+| Monitor LED 24 pol. | 25 | R$ 21.057,50 | 39,1% |
+| Memória RAM 16 GB | 48 | R$ 13.929,90 | 43,3% |
+| Furadeira de impacto | 48 | R$ 13.608,00 | 39,0% |
+| Teclado mecânico ABNT2 | 28 | R$ 7.563,79 | 46,3% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Toalha de banho | Acaba antes da reposição | 2 | 1 dias | 76 |
-| Etiquetas adesivas cx 1000 | Acaba antes da reposição | 53 | 14 dias | 65 |
-| Desinfetante 2 L | Acaba antes da reposição | 2 | 3 dias | 17 |
+| Bloco de desenho A3 | Sem saldo | 0 | 0 dias | 53 |
+| Caderno universitário 200 fls | Acaba antes da reposição | 24 | 8 dias | 82 |
+| SSD 480 GB | Acaba antes da reposição | 1 | 1 dias | 44 |
+| Pano de microfibra pc 5 | Acaba antes da reposição | 14 | 12 dias | 32 |
+| Caderno universitário 200 fls Pro branco | Acaba antes da reposição | 2 | 2 dias | 29 |
+| Marca-texto cx 6 | Acaba antes da reposição | 15 | 12 dias | 26 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 06/11/2026 | 81/81 | R$ 34.740,44 | 17 | 6 |
 | 05/11/2026 | 81/81 | R$ 10.390,03 | 5 | 7 |
 | 04/11/2026 | 81/81 | R$ 3.371,14 | 6 | 6 |
 | 03/11/2026 | 81/81 | R$ 2.530,13 | 2 | 7 |
