@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 06/11/2026 às 16:26 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 07/11/2026 às 14:45 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,56 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 11,5 s |
+| Duração | 14,6 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 34.740,44 |
-| Pedidos faturados | 17 |
-| Ticket médio | R$ 2.043,56 |
-| Estoque a preço de custo | R$ 277.897,87 |
-| Unidades em estoque | 2.872 |
-| Produtos abaixo do mínimo | 6 |
+| Faturamento do mês | R$ 34.262,64 |
+| Pedidos faturados | 18 |
+| Ticket médio | R$ 1.903,48 |
+| Estoque a preço de custo | R$ 312.231,63 |
+| Unidades em estoque | 2.833 |
+| Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 6 |
-| Confirmado | 4 |
-| Separado | 3 |
+| Rascunho | 2 |
+| Confirmado | 2 |
+| Separado | 6 |
 | Faturado | 5 |
-| Enviado | 8 |
-| Entregue | 290 |
-| Cancelado | 28 |
+| Enviado | 9 |
+| Entregue | 299 |
+| Cancelado | 27 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Premium azul | 34 | R$ 40.315,23 | 42,0% |
-| Monitor LED 24 pol. | 25 | R$ 21.057,50 | 39,1% |
-| Memória RAM 16 GB | 48 | R$ 13.929,90 | 43,3% |
-| Furadeira de impacto | 48 | R$ 13.608,00 | 39,0% |
-| Teclado mecânico ABNT2 | 28 | R$ 7.563,79 | 46,3% |
+| Monitor LED 24 pol. | 11 | R$ 11.999,40 | 40,3% |
+| Caixa de som portátil | 36 | R$ 11.665,50 | 50,5% |
+| Fone de ouvido Bluetooth | 96 | R$ 11.064,79 | 38,5% |
+| SSD 480 GB | 29 | R$ 8.296,16 | 40,1% |
+| Cafeteira elétrica | 51 | R$ 7.778,16 | 45,4% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Bloco de desenho A3 | Sem saldo | 0 | 0 dias | 53 |
-| Caderno universitário 200 fls | Acaba antes da reposição | 24 | 8 dias | 82 |
-| SSD 480 GB | Acaba antes da reposição | 1 | 1 dias | 44 |
-| Pano de microfibra pc 5 | Acaba antes da reposição | 14 | 12 dias | 32 |
-| Caderno universitário 200 fls Pro branco | Acaba antes da reposição | 2 | 2 dias | 29 |
-| Marca-texto cx 6 | Acaba antes da reposição | 15 | 12 dias | 26 |
+| Mouse sem fio Compacto | Sem saldo | 0 | 0 dias | 65 |
+| Papel sulfite A4 resma Essencial cinza | Acaba antes da reposição | 35 | 9 dias | 70 |
+| Garrafa squeeze 750 ml | Acaba antes da reposição | 1 | 1 dias | 33 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 07/11/2026 | 81/81 | R$ 34.262,64 | 18 | 7 |
 | 06/11/2026 | 81/81 | R$ 34.740,44 | 17 | 6 |
 | 05/11/2026 | 81/81 | R$ 10.390,03 | 5 | 7 |
 | 04/11/2026 | 81/81 | R$ 3.371,14 | 6 | 6 |
