@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 07/11/2026 às 14:45 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 11/11/2026 às 22:01 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,53 +19,57 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,6 s |
+| Duração | 11,5 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 34.262,64 |
-| Pedidos faturados | 18 |
-| Ticket médio | R$ 1.903,48 |
-| Estoque a preço de custo | R$ 312.231,63 |
-| Unidades em estoque | 2.833 |
+| Faturamento do mês | R$ 100.376,68 |
+| Pedidos faturados | 43 |
+| Ticket médio | R$ 2.334,34 |
+| Estoque a preço de custo | R$ 224.449,50 |
+| Unidades em estoque | 2.832 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 2 |
-| Separado | 6 |
-| Faturado | 5 |
+| Rascunho | 6 |
+| Confirmado | 3 |
+| Separado | 4 |
+| Faturado | 3 |
 | Enviado | 9 |
-| Entregue | 299 |
-| Cancelado | 27 |
+| Entregue | 291 |
+| Cancelado | 34 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 11 | R$ 11.999,40 | 40,3% |
-| Caixa de som portátil | 36 | R$ 11.665,50 | 50,5% |
-| Fone de ouvido Bluetooth | 96 | R$ 11.064,79 | 38,5% |
-| SSD 480 GB | 29 | R$ 8.296,16 | 40,1% |
-| Cafeteira elétrica | 51 | R$ 7.778,16 | 45,4% |
+| Monitor LED 24 pol. Compacto cinza | 37 | R$ 42.610,17 | 53,7% |
+| Teclado mecânico ABNT2 | 95 | R$ 35.426,92 | 46,7% |
+| SSD 480 GB Premium cinza | 72 | R$ 21.784,09 | 39,5% |
+| Memória RAM 16 GB Premium azul | 39 | R$ 13.106,03 | 39,2% |
+| Mochila de trilha 30 L | 46 | R$ 11.660,49 | 41,3% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Mouse sem fio Compacto | Sem saldo | 0 | 0 dias | 65 |
-| Papel sulfite A4 resma Essencial cinza | Acaba antes da reposição | 35 | 9 dias | 70 |
-| Garrafa squeeze 750 ml | Acaba antes da reposição | 1 | 1 dias | 33 |
+| Cafeteira elétrica | Sem saldo | 0 | 0 dias | 27 |
+| Teclado mecânico ABNT2 | Acaba antes da reposição | 3 | 1 dias | 113 |
+| SSD 480 GB Premium cinza | Acaba antes da reposição | 3 | 1 dias | 78 |
+| Trena 5 m | Acaba antes da reposição | 29 | 14 dias | 43 |
+| Monitor LED 24 pol. Compacto cinza | Acaba antes da reposição | 1 | 1 dias | 39 |
+| Furadeira de impacto | Acaba antes da reposição | 4 | 6 dias | 22 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 11/11/2026 | 81/81 | R$ 100.376,68 | 43 | 7 |
 | 07/11/2026 | 81/81 | R$ 34.262,64 | 18 | 7 |
 | 06/11/2026 | 81/81 | R$ 34.740,44 | 17 | 6 |
 | 05/11/2026 | 81/81 | R$ 10.390,03 | 5 | 7 |
