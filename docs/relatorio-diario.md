@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 11/11/2026 às 22:01 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 12/11/2026 às 17:00 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,56 +19,56 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 11,5 s |
+| Duração | 9,8 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 100.376,68 |
-| Pedidos faturados | 43 |
-| Ticket médio | R$ 2.334,34 |
-| Estoque a preço de custo | R$ 224.449,50 |
-| Unidades em estoque | 2.832 |
+| Faturamento do mês | R$ 87.365,56 |
+| Pedidos faturados | 46 |
+| Ticket médio | R$ 1.899,25 |
+| Estoque a preço de custo | R$ 278.917,78 |
+| Unidades em estoque | 3.000 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 6 |
-| Confirmado | 3 |
-| Separado | 4 |
-| Faturado | 3 |
-| Enviado | 9 |
-| Entregue | 291 |
-| Cancelado | 34 |
+| Rascunho | 3 |
+| Confirmado | 1 |
+| Separado | 6 |
+| Faturado | 4 |
+| Enviado | 7 |
+| Entregue | 299 |
+| Cancelado | 29 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Compacto cinza | 37 | R$ 42.610,17 | 53,7% |
-| Teclado mecânico ABNT2 | 95 | R$ 35.426,92 | 46,7% |
-| SSD 480 GB Premium cinza | 72 | R$ 21.784,09 | 39,5% |
-| Memória RAM 16 GB Premium azul | 39 | R$ 13.106,03 | 39,2% |
-| Mochila de trilha 30 L | 46 | R$ 11.660,49 | 41,3% |
+| Monitor LED 24 pol. | 37 | R$ 38.619,89 | 41,4% |
+| Cafeteira elétrica | 86 | R$ 25.064,22 | 36,3% |
+| Monitor LED 24 pol. Pro azul | 20 | R$ 19.795,80 | 37,9% |
+| Teclado mecânico ABNT2 Essencial | 60 | R$ 19.726,20 | 31,1% |
+| Parafusadeira a bateria | 36 | R$ 17.412,76 | 51,6% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Cafeteira elétrica | Sem saldo | 0 | 0 dias | 27 |
-| Teclado mecânico ABNT2 | Acaba antes da reposição | 3 | 1 dias | 113 |
-| SSD 480 GB Premium cinza | Acaba antes da reposição | 3 | 1 dias | 78 |
-| Trena 5 m | Acaba antes da reposição | 29 | 14 dias | 43 |
-| Monitor LED 24 pol. Compacto cinza | Acaba antes da reposição | 1 | 1 dias | 39 |
-| Furadeira de impacto | Acaba antes da reposição | 4 | 6 dias | 22 |
+| Webcam Full HD | Sem saldo | 0 | 0 dias | 37 |
+| Rodo 60 cm | Acaba antes da reposição | 3 | 1 dias | 72 |
+| Garrafa squeeze 750 ml | Acaba antes da reposição | 12 | 5 dias | 68 |
+| Teclado mecânico ABNT2 Essencial | Acaba antes da reposição | 3 | 2 dias | 53 |
+| Parafusadeira a bateria | Acaba antes da reposição | 5 | 4 dias | 24 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 12/11/2026 | 81/81 | R$ 87.365,56 | 46 | 7 |
 | 11/11/2026 | 81/81 | R$ 100.376,68 | 43 | 7 |
 | 07/11/2026 | 81/81 | R$ 34.262,64 | 18 | 7 |
 | 06/11/2026 | 81/81 | R$ 34.740,44 | 17 | 6 |
