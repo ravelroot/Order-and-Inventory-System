@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 12/11/2026 às 17:00 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 13/11/2026 às 13:01 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,17 +19,17 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 9,8 s |
+| Duração | 11,7 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 87.365,56 |
-| Pedidos faturados | 46 |
-| Ticket médio | R$ 1.899,25 |
-| Estoque a preço de custo | R$ 278.917,78 |
-| Unidades em estoque | 3.000 |
+| Faturamento do mês | R$ 101.265,58 |
+| Pedidos faturados | 44 |
+| Ticket médio | R$ 2.301,49 |
+| Estoque a preço de custo | R$ 286.996,46 |
+| Unidades em estoque | 2.540 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
@@ -37,37 +37,34 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Etapa | Pedidos |
 |---|---:|
 | Rascunho | 3 |
-| Confirmado | 1 |
-| Separado | 6 |
-| Faturado | 4 |
-| Enviado | 7 |
-| Entregue | 299 |
-| Cancelado | 29 |
+| Confirmado | 5 |
+| Separado | 1 |
+| Faturado | 1 |
+| Enviado | 6 |
+| Entregue | 300 |
+| Cancelado | 31 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 37 | R$ 38.619,89 | 41,4% |
-| Cafeteira elétrica | 86 | R$ 25.064,22 | 36,3% |
-| Monitor LED 24 pol. Pro azul | 20 | R$ 19.795,80 | 37,9% |
-| Teclado mecânico ABNT2 Essencial | 60 | R$ 19.726,20 | 31,1% |
-| Parafusadeira a bateria | 36 | R$ 17.412,76 | 51,6% |
+| Monitor LED 24 pol. | 68 | R$ 77.499,83 | 30,4% |
+| Jogo de panelas 5 peças | 78 | R$ 45.615,71 | 44,7% |
+| Parafusadeira a bateria | 81 | R$ 41.418,70 | 32,1% |
+| Monitor LED 24 pol. Plus | 28 | R$ 20.307,10 | 33,5% |
+| SSD 480 GB | 57 | R$ 17.790,85 | 41,9% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Webcam Full HD | Sem saldo | 0 | 0 dias | 37 |
-| Rodo 60 cm | Acaba antes da reposição | 3 | 1 dias | 72 |
-| Garrafa squeeze 750 ml | Acaba antes da reposição | 12 | 5 dias | 68 |
-| Teclado mecânico ABNT2 Essencial | Acaba antes da reposição | 3 | 2 dias | 53 |
-| Parafusadeira a bateria | Acaba antes da reposição | 5 | 4 dias | 24 |
+| SSD 480 GB | Acaba antes da reposição | 14 | 7 dias | 43 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 13/11/2026 | 81/81 | R$ 101.265,58 | 44 | 7 |
 | 12/11/2026 | 81/81 | R$ 87.365,56 | 46 | 7 |
 | 11/11/2026 | 81/81 | R$ 100.376,68 | 43 | 7 |
 | 07/11/2026 | 81/81 | R$ 34.262,64 | 18 | 7 |
