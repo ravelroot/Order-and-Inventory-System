@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 13/11/2026 às 13:01 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 13/11/2026 às 16:49 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,52 +19,55 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 11,7 s |
+| Duração | 14,3 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 101.265,58 |
-| Pedidos faturados | 44 |
-| Ticket médio | R$ 2.301,49 |
-| Estoque a preço de custo | R$ 286.996,46 |
-| Unidades em estoque | 2.540 |
-| Produtos abaixo do mínimo | 7 |
+| Faturamento do mês | R$ 136.270,67 |
+| Pedidos faturados | 46 |
+| Ticket médio | R$ 2.962,41 |
+| Estoque a preço de custo | R$ 215.562,33 |
+| Unidades em estoque | 2.523 |
+| Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 3 |
-| Confirmado | 5 |
-| Separado | 1 |
-| Faturado | 1 |
-| Enviado | 6 |
-| Entregue | 300 |
-| Cancelado | 31 |
+| Rascunho | 2 |
+| Confirmado | 0 |
+| Separado | 5 |
+| Faturado | 6 |
+| Enviado | 4 |
+| Entregue | 297 |
+| Cancelado | 35 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 68 | R$ 77.499,83 | 30,4% |
-| Jogo de panelas 5 peças | 78 | R$ 45.615,71 | 44,7% |
-| Parafusadeira a bateria | 81 | R$ 41.418,70 | 32,1% |
-| Monitor LED 24 pol. Plus | 28 | R$ 20.307,10 | 33,5% |
-| SSD 480 GB | 57 | R$ 17.790,85 | 41,9% |
+| Monitor LED 24 pol. | 57 | R$ 65.742,05 | 30,0% |
+| Jogo de panelas 5 peças | 69 | R$ 40.534,81 | 45,1% |
+| Parafusadeira a bateria | 76 | R$ 38.548,04 | 31,4% |
+| Smartwatch esportivo | 40 | R$ 22.824,11 | 44,9% |
+| Teclado mecânico ABNT2 Pro cinza | 37 | R$ 17.015,10 | 34,1% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| SSD 480 GB | Acaba antes da reposição | 14 | 7 dias | 43 |
+| Webcam Full HD | Acaba antes da reposição | 5 | 6 dias | 52 |
+| Monitor LED 24 pol. | Acaba antes da reposição | 18 | 10 dias | 40 |
+| Grampeador de mesa Pro | Acaba antes da reposição | 1 | 1 dias | 35 |
+| Jogo de chaves 40 peças | Acaba antes da reposição | 2 | 3 dias | 22 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
-| 13/11/2026 | 81/81 | R$ 101.265,58 | 44 | 7 |
+| 13/11/2026 | 81/81 | R$ 136.270,67 | 46 | 6 |
 | 12/11/2026 | 81/81 | R$ 87.365,56 | 46 | 7 |
 | 11/11/2026 | 81/81 | R$ 100.376,68 | 43 | 7 |
 | 07/11/2026 | 81/81 | R$ 34.262,64 | 18 | 7 |
