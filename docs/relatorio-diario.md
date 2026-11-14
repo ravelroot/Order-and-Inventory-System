@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 13/11/2026 às 16:49 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 14/11/2026 às 15:13 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,54 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,3 s |
+| Duração | 14,4 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 136.270,67 |
-| Pedidos faturados | 46 |
-| Ticket médio | R$ 2.962,41 |
-| Estoque a preço de custo | R$ 215.562,33 |
-| Unidades em estoque | 2.523 |
+| Faturamento do mês | R$ 89.284,62 |
+| Pedidos faturados | 45 |
+| Ticket médio | R$ 1.984,10 |
+| Estoque a preço de custo | R$ 294.329,02 |
+| Unidades em estoque | 2.829 |
 | Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 0 |
-| Separado | 5 |
-| Faturado | 6 |
-| Enviado | 4 |
-| Entregue | 297 |
-| Cancelado | 35 |
+| Rascunho | 0 |
+| Confirmado | 5 |
+| Separado | 1 |
+| Faturado | 3 |
+| Enviado | 8 |
+| Entregue | 305 |
+| Cancelado | 26 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 57 | R$ 65.742,05 | 30,0% |
-| Jogo de panelas 5 peças | 69 | R$ 40.534,81 | 45,1% |
-| Parafusadeira a bateria | 76 | R$ 38.548,04 | 31,4% |
-| Smartwatch esportivo | 40 | R$ 22.824,11 | 44,9% |
-| Teclado mecânico ABNT2 Pro cinza | 37 | R$ 17.015,10 | 34,1% |
+| Jogo de panelas 5 peças | 118 | R$ 54.651,12 | 47,2% |
+| Smartwatch esportivo | 36 | R$ 17.697,90 | 33,7% |
+| Parafusadeira a bateria | 40 | R$ 16.575,04 | 45,7% |
+| Caixa de som portátil | 34 | R$ 15.742,04 | 37,3% |
+| Furadeira de impacto | 39 | R$ 13.570,87 | 41,2% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Webcam Full HD | Acaba antes da reposição | 5 | 6 dias | 52 |
-| Monitor LED 24 pol. | Acaba antes da reposição | 18 | 10 dias | 40 |
-| Grampeador de mesa Pro | Acaba antes da reposição | 1 | 1 dias | 35 |
-| Jogo de chaves 40 peças | Acaba antes da reposição | 2 | 3 dias | 22 |
+| Grampeador de mesa | Sem saldo | 0 | 0 dias | 21 |
+| Webcam Full HD | Acaba antes da reposição | 1 | 3 dias | 37 |
+| Grampeador de mesa Plus branco | Acaba antes da reposição | 5 | 4 dias | 35 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 14/11/2026 | 81/81 | R$ 89.284,62 | 45 | 6 |
 | 13/11/2026 | 81/81 | R$ 136.270,67 | 46 | 6 |
 | 12/11/2026 | 81/81 | R$ 87.365,56 | 46 | 7 |
 | 11/11/2026 | 81/81 | R$ 100.376,68 | 43 | 7 |
