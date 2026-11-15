@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 14/11/2026 às 15:13 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 15/11/2026 às 15:56 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,17 +19,17 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 14,4 s |
+| Duração | 10,5 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 89.284,62 |
-| Pedidos faturados | 45 |
-| Ticket médio | R$ 1.984,10 |
-| Estoque a preço de custo | R$ 294.329,02 |
-| Unidades em estoque | 2.829 |
+| Faturamento do mês | R$ 66.366,63 |
+| Pedidos faturados | 48 |
+| Ticket médio | R$ 1.382,64 |
+| Estoque a preço de custo | R$ 249.713,59 |
+| Unidades em estoque | 2.581 |
 | Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
@@ -37,35 +37,36 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Etapa | Pedidos |
 |---|---:|
 | Rascunho | 0 |
-| Confirmado | 5 |
-| Separado | 1 |
-| Faturado | 3 |
-| Enviado | 8 |
-| Entregue | 305 |
-| Cancelado | 26 |
+| Confirmado | 1 |
+| Separado | 5 |
+| Faturado | 0 |
+| Enviado | 13 |
+| Entregue | 300 |
+| Cancelado | 30 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Jogo de panelas 5 peças | 118 | R$ 54.651,12 | 47,2% |
-| Smartwatch esportivo | 36 | R$ 17.697,90 | 33,7% |
-| Parafusadeira a bateria | 40 | R$ 16.575,04 | 45,7% |
-| Caixa de som portátil | 34 | R$ 15.742,04 | 37,3% |
-| Furadeira de impacto | 39 | R$ 13.570,87 | 41,2% |
+| Monitor LED 24 pol. Essencial preto | 61 | R$ 59.895,76 | 37,4% |
+| Fone de ouvido Bluetooth | 81 | R$ 29.137,96 | 48,9% |
+| Furadeira de impacto | 56 | R$ 15.237,83 | 46,4% |
+| Memória RAM 16 GB | 51 | R$ 14.335,55 | 49,6% |
+| Teclado mecânico ABNT2 | 34 | R$ 11.908,80 | 41,8% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Grampeador de mesa | Sem saldo | 0 | 0 dias | 21 |
-| Webcam Full HD | Acaba antes da reposição | 1 | 3 dias | 37 |
-| Grampeador de mesa Plus branco | Acaba antes da reposição | 5 | 4 dias | 35 |
+| Mouse sem fio Compacto | Acaba antes da reposição | 2 | 1 dias | 58 |
+| Memória RAM 16 GB | Acaba antes da reposição | 4 | 2 dias | 49 |
+| Suporte para notebook Compacto azul | Acaba antes da reposição | 1 | 1 dias | 23 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 15/11/2026 | 81/81 | R$ 66.366,63 | 48 | 6 |
 | 14/11/2026 | 81/81 | R$ 89.284,62 | 45 | 6 |
 | 13/11/2026 | 81/81 | R$ 136.270,67 | 46 | 6 |
 | 12/11/2026 | 81/81 | R$ 87.365,56 | 46 | 7 |
