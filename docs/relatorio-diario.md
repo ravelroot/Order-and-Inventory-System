@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 15/11/2026 às 15:56 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 16/11/2026 às 19:14 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,53 +19,53 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 10,5 s |
+| Duração | 10,1 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 66.366,63 |
-| Pedidos faturados | 48 |
-| Ticket médio | R$ 1.382,64 |
-| Estoque a preço de custo | R$ 249.713,59 |
-| Unidades em estoque | 2.581 |
-| Produtos abaixo do mínimo | 6 |
+| Faturamento do mês | R$ 183.554,11 |
+| Pedidos faturados | 66 |
+| Ticket médio | R$ 2.781,12 |
+| Estoque a preço de custo | R$ 277.685,46 |
+| Unidades em estoque | 2.884 |
+| Produtos abaixo do mínimo | 8 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 0 |
-| Confirmado | 1 |
-| Separado | 5 |
-| Faturado | 0 |
-| Enviado | 13 |
-| Entregue | 300 |
-| Cancelado | 30 |
+| Rascunho | 2 |
+| Confirmado | 5 |
+| Separado | 3 |
+| Faturado | 2 |
+| Enviado | 11 |
+| Entregue | 291 |
+| Cancelado | 36 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Essencial preto | 61 | R$ 59.895,76 | 37,4% |
-| Fone de ouvido Bluetooth | 81 | R$ 29.137,96 | 48,9% |
-| Furadeira de impacto | 56 | R$ 15.237,83 | 46,4% |
-| Memória RAM 16 GB | 51 | R$ 14.335,55 | 49,6% |
-| Teclado mecânico ABNT2 | 34 | R$ 11.908,80 | 41,8% |
+| Monitor LED 24 pol. | 123 | R$ 105.156,16 | 38,5% |
+| Suporte para notebook Plus | 121 | R$ 18.631,19 | 51,9% |
+| Furadeira de impacto | 48 | R$ 14.473,44 | 39,3% |
+| Monitor LED 24 pol. Essencial | 16 | R$ 13.995,00 | 51,1% |
+| Faqueiro inox 24 peças | 69 | R$ 13.229,52 | 30,7% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Mouse sem fio Compacto | Acaba antes da reposição | 2 | 1 dias | 58 |
-| Memória RAM 16 GB | Acaba antes da reposição | 4 | 2 dias | 49 |
-| Suporte para notebook Compacto azul | Acaba antes da reposição | 1 | 1 dias | 23 |
+| Bloco de desenho A3 | Acaba antes da reposição | 5 | 1 dias | 108 |
+| Nível de bolha 40 cm | Acaba antes da reposição | 2 | 2 dias | 23 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 16/11/2026 | 81/81 | R$ 183.554,11 | 66 | 8 |
 | 15/11/2026 | 81/81 | R$ 66.366,63 | 48 | 6 |
 | 14/11/2026 | 81/81 | R$ 89.284,62 | 45 | 6 |
 | 13/11/2026 | 81/81 | R$ 136.270,67 | 46 | 6 |
