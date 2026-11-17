@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 16/11/2026 às 19:14 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 17/11/2026 às 18:00 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -25,46 +25,50 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 183.554,11 |
-| Pedidos faturados | 66 |
-| Ticket médio | R$ 2.781,12 |
-| Estoque a preço de custo | R$ 277.685,46 |
-| Unidades em estoque | 2.884 |
-| Produtos abaixo do mínimo | 8 |
+| Faturamento do mês | R$ 187.461,28 |
+| Pedidos faturados | 74 |
+| Ticket médio | R$ 2.533,26 |
+| Estoque a preço de custo | R$ 303.722,77 |
+| Unidades em estoque | 2.805 |
+| Produtos abaixo do mínimo | 5 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 5 |
-| Separado | 3 |
+| Rascunho | 4 |
+| Confirmado | 4 |
+| Separado | 1 |
 | Faturado | 2 |
-| Enviado | 11 |
-| Entregue | 291 |
-| Cancelado | 36 |
+| Enviado | 12 |
+| Entregue | 298 |
+| Cancelado | 27 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 123 | R$ 105.156,16 | 38,5% |
-| Suporte para notebook Plus | 121 | R$ 18.631,19 | 51,9% |
-| Furadeira de impacto | 48 | R$ 14.473,44 | 39,3% |
-| Monitor LED 24 pol. Essencial | 16 | R$ 13.995,00 | 51,1% |
-| Faqueiro inox 24 peças | 69 | R$ 13.229,52 | 30,7% |
+| Smartwatch esportivo | 80 | R$ 67.608,82 | 51,7% |
+| Monitor LED 24 pol. | 71 | R$ 57.665,26 | 51,2% |
+| Furadeira de impacto | 99 | R$ 34.352,16 | 30,8% |
+| Webcam Full HD | 55 | R$ 17.505,83 | 35,2% |
+| Monitor LED 24 pol. Premium branco | 15 | R$ 15.214,36 | 29,8% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Bloco de desenho A3 | Acaba antes da reposição | 5 | 1 dias | 108 |
-| Nível de bolha 40 cm | Acaba antes da reposição | 2 | 2 dias | 23 |
+| Tapete de yoga | Sem saldo | 0 | 0 dias | 10 |
+| Toalha de banho | Acaba antes da reposição | 2 | 1 dias | 53 |
+| Mouse sem fio | Acaba antes da reposição | 5 | 3 dias | 36 |
+| Papel sulfite A4 resma Plus azul | Acaba antes da reposição | 10 | 7 dias | 32 |
+| Bola de futebol | Acaba antes da reposição | 7 | 8 dias | 19 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 17/11/2026 | 81/81 | R$ 187.461,28 | 74 | 5 |
 | 16/11/2026 | 81/81 | R$ 183.554,11 | 66 | 8 |
 | 15/11/2026 | 81/81 | R$ 66.366,63 | 48 | 6 |
 | 14/11/2026 | 81/81 | R$ 89.284,62 | 45 | 6 |
@@ -94,4 +98,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 18/10/2026 | 79/79 | R$ 176.840,36 | 78 | 7 |
 | 17/10/2026 | 79/79 | R$ 149.857,06 | 78 | 7 |
 | 16/10/2026 | 79/79 | R$ 207.348,74 | 67 | 7 |
-| 14/10/2026 | 79/79 | R$ 83.140,81 | 48 | 7 |
