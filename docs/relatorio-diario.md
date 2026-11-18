@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 17/11/2026 às 18:00 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 18/11/2026 às 17:38 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,55 +19,56 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 10,1 s |
+| Duração | 10,2 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 187.461,28 |
-| Pedidos faturados | 74 |
-| Ticket médio | R$ 2.533,26 |
-| Estoque a preço de custo | R$ 303.722,77 |
-| Unidades em estoque | 2.805 |
-| Produtos abaixo do mínimo | 5 |
+| Faturamento do mês | R$ 143.534,49 |
+| Pedidos faturados | 69 |
+| Ticket médio | R$ 2.080,21 |
+| Estoque a preço de custo | R$ 250.613,14 |
+| Unidades em estoque | 2.920 |
+| Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 4 |
-| Confirmado | 4 |
-| Separado | 1 |
-| Faturado | 2 |
-| Enviado | 12 |
-| Entregue | 298 |
-| Cancelado | 27 |
+| Rascunho | 7 |
+| Confirmado | 5 |
+| Separado | 2 |
+| Faturado | 1 |
+| Enviado | 13 |
+| Entregue | 286 |
+| Cancelado | 34 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Smartwatch esportivo | 80 | R$ 67.608,82 | 51,7% |
-| Monitor LED 24 pol. | 71 | R$ 57.665,26 | 51,2% |
-| Furadeira de impacto | 99 | R$ 34.352,16 | 30,8% |
-| Webcam Full HD | 55 | R$ 17.505,83 | 35,2% |
-| Monitor LED 24 pol. Premium branco | 15 | R$ 15.214,36 | 29,8% |
+| Monitor LED 24 pol. Plus branco | 89 | R$ 92.847,03 | 41,4% |
+| Jogo de panelas 5 peças | 51 | R$ 20.142,27 | 36,5% |
+| Suporte para notebook | 98 | R$ 16.363,30 | 45,6% |
+| Smartwatch esportivo | 32 | R$ 16.076,49 | 51,3% |
+| SSD 480 GB | 39 | R$ 11.519,03 | 36,1% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Tapete de yoga | Sem saldo | 0 | 0 dias | 10 |
-| Toalha de banho | Acaba antes da reposição | 2 | 1 dias | 53 |
-| Mouse sem fio | Acaba antes da reposição | 5 | 3 dias | 36 |
-| Papel sulfite A4 resma Plus azul | Acaba antes da reposição | 10 | 7 dias | 32 |
-| Bola de futebol | Acaba antes da reposição | 7 | 8 dias | 19 |
+| Carregador turbo USB-C | Sem saldo | 0 | 0 dias | 18 |
+| Monitor LED 24 pol. Plus branco | Acaba antes da reposição | 11 | 4 dias | 88 |
+| Suporte para notebook | Acaba antes da reposição | 34 | 10 dias | 75 |
+| Garrafa térmica 1 L | Acaba antes da reposição | 1 | 1 dias | 50 |
+| Hub USB-C 7 em 1 | Acaba antes da reposição | 3 | 2 dias | 40 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 18/11/2026 | 81/81 | R$ 143.534,49 | 69 | 6 |
 | 17/11/2026 | 81/81 | R$ 187.461,28 | 74 | 5 |
 | 16/11/2026 | 81/81 | R$ 183.554,11 | 66 | 8 |
 | 15/11/2026 | 81/81 | R$ 66.366,63 | 48 | 6 |
@@ -97,4 +98,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 19/10/2026 | 79/79 | R$ 143.410,94 | 77 | 7 |
 | 18/10/2026 | 79/79 | R$ 176.840,36 | 78 | 7 |
 | 17/10/2026 | 79/79 | R$ 149.857,06 | 78 | 7 |
-| 16/10/2026 | 79/79 | R$ 207.348,74 | 67 | 7 |
