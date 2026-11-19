@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 18/11/2026 às 17:38 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 19/11/2026 às 17:44 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,55 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 10,2 s |
+| Duração | 9,9 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 143.534,49 |
-| Pedidos faturados | 69 |
-| Ticket médio | R$ 2.080,21 |
-| Estoque a preço de custo | R$ 250.613,14 |
-| Unidades em estoque | 2.920 |
-| Produtos abaixo do mínimo | 6 |
+| Faturamento do mês | R$ 114.050,77 |
+| Pedidos faturados | 75 |
+| Ticket médio | R$ 1.520,68 |
+| Estoque a preço de custo | R$ 231.145,19 |
+| Unidades em estoque | 2.582 |
+| Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 7 |
-| Confirmado | 5 |
+| Rascunho | 2 |
+| Confirmado | 4 |
 | Separado | 2 |
-| Faturado | 1 |
-| Enviado | 13 |
-| Entregue | 286 |
-| Cancelado | 34 |
+| Faturado | 6 |
+| Enviado | 6 |
+| Entregue | 295 |
+| Cancelado | 35 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Plus branco | 89 | R$ 92.847,03 | 41,4% |
-| Jogo de panelas 5 peças | 51 | R$ 20.142,27 | 36,5% |
-| Suporte para notebook | 98 | R$ 16.363,30 | 45,6% |
-| Smartwatch esportivo | 32 | R$ 16.076,49 | 51,3% |
-| SSD 480 GB | 39 | R$ 11.519,03 | 36,1% |
+| Monitor LED 24 pol. Pro preto | 32 | R$ 38.452,88 | 37,0% |
+| Caixa de som portátil | 36 | R$ 16.106,63 | 47,9% |
+| Fone de ouvido Bluetooth | 49 | R$ 12.836,46 | 40,3% |
+| Monitor LED 24 pol. | 11 | R$ 12.545,12 | 43,7% |
+| Jogo de chaves 40 peças | 64 | R$ 12.137,75 | 47,4% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Carregador turbo USB-C | Sem saldo | 0 | 0 dias | 18 |
-| Monitor LED 24 pol. Plus branco | Acaba antes da reposição | 11 | 4 dias | 88 |
-| Suporte para notebook | Acaba antes da reposição | 34 | 10 dias | 75 |
-| Garrafa térmica 1 L | Acaba antes da reposição | 1 | 1 dias | 50 |
-| Hub USB-C 7 em 1 | Acaba antes da reposição | 3 | 2 dias | 40 |
+| Cabo HDMI 2 m | Acaba antes da reposição | 2 | 1 dias | 73 |
+| Fone de ouvido Bluetooth | Acaba antes da reposição | 3 | 2 dias | 54 |
+| Fita isolante rolo | Acaba antes da reposição | 5 | 9 dias | 30 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 19/11/2026 | 81/81 | R$ 114.050,77 | 75 | 7 |
 | 18/11/2026 | 81/81 | R$ 143.534,49 | 69 | 6 |
 | 17/11/2026 | 81/81 | R$ 187.461,28 | 74 | 5 |
 | 16/11/2026 | 81/81 | R$ 183.554,11 | 66 | 8 |
@@ -97,4 +96,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 20/10/2026 | 79/79 | R$ 172.687,58 | 76 | 7 |
 | 19/10/2026 | 79/79 | R$ 143.410,94 | 77 | 7 |
 | 18/10/2026 | 79/79 | R$ 176.840,36 | 78 | 7 |
-| 17/10/2026 | 79/79 | R$ 149.857,06 | 78 | 7 |
