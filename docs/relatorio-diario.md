@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 19/11/2026 às 17:44 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 20/11/2026 às 17:29 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,17 +19,17 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 9,9 s |
+| Duração | 10,6 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 114.050,77 |
+| Faturamento do mês | R$ 158.483,35 |
 | Pedidos faturados | 75 |
-| Ticket médio | R$ 1.520,68 |
-| Estoque a preço de custo | R$ 231.145,19 |
-| Unidades em estoque | 2.582 |
+| Ticket médio | R$ 2.113,11 |
+| Estoque a preço de custo | R$ 306.423,60 |
+| Unidades em estoque | 2.970 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
@@ -37,35 +37,35 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Etapa | Pedidos |
 |---|---:|
 | Rascunho | 2 |
-| Confirmado | 4 |
-| Separado | 2 |
-| Faturado | 6 |
-| Enviado | 6 |
-| Entregue | 295 |
-| Cancelado | 35 |
+| Confirmado | 6 |
+| Separado | 1 |
+| Faturado | 2 |
+| Enviado | 7 |
+| Entregue | 296 |
+| Cancelado | 36 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Pro preto | 32 | R$ 38.452,88 | 37,0% |
-| Caixa de som portátil | 36 | R$ 16.106,63 | 47,9% |
-| Fone de ouvido Bluetooth | 49 | R$ 12.836,46 | 40,3% |
-| Monitor LED 24 pol. | 11 | R$ 12.545,12 | 43,7% |
-| Jogo de chaves 40 peças | 64 | R$ 12.137,75 | 47,4% |
+| Monitor LED 24 pol. Pro branco | 69 | R$ 77.929,60 | 53,2% |
+| SSD 480 GB Compacto cinza | 77 | R$ 20.390,40 | 41,5% |
+| Smartwatch esportivo | 21 | R$ 15.381,47 | 43,2% |
+| Memória RAM 16 GB Plus | 42 | R$ 15.000,62 | 38,1% |
+| Jogo de panelas 5 peças | 28 | R$ 10.453,99 | 33,8% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Cabo HDMI 2 m | Acaba antes da reposição | 2 | 1 dias | 73 |
-| Fone de ouvido Bluetooth | Acaba antes da reposição | 3 | 2 dias | 54 |
-| Fita isolante rolo | Acaba antes da reposição | 5 | 9 dias | 30 |
+| Desinfetante 2 L | Acaba antes da reposição | 3 | 3 dias | 27 |
+| Caixa de som portátil | Acaba antes da reposição | 4 | 12 dias | 16 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 20/11/2026 | 81/81 | R$ 158.483,35 | 75 | 7 |
 | 19/11/2026 | 81/81 | R$ 114.050,77 | 75 | 7 |
 | 18/11/2026 | 81/81 | R$ 143.534,49 | 69 | 6 |
 | 17/11/2026 | 81/81 | R$ 187.461,28 | 74 | 5 |
@@ -95,4 +95,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 21/10/2026 | 79/79 | R$ 103.301,86 | 84 | 7 |
 | 20/10/2026 | 79/79 | R$ 172.687,58 | 76 | 7 |
 | 19/10/2026 | 79/79 | R$ 143.410,94 | 77 | 7 |
-| 18/10/2026 | 79/79 | R$ 176.840,36 | 78 | 7 |
