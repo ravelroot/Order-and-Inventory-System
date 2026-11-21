@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 20/11/2026 às 17:29 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 21/11/2026 às 16:23 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,52 +19,55 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 10,6 s |
+| Duração | 9,8 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 158.483,35 |
-| Pedidos faturados | 75 |
-| Ticket médio | R$ 2.113,11 |
-| Estoque a preço de custo | R$ 306.423,60 |
-| Unidades em estoque | 2.970 |
+| Faturamento do mês | R$ 119.179,63 |
+| Pedidos faturados | 64 |
+| Ticket médio | R$ 1.862,18 |
+| Estoque a preço de custo | R$ 248.805,92 |
+| Unidades em estoque | 3.008 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 2 |
-| Confirmado | 6 |
-| Separado | 1 |
-| Faturado | 2 |
+| Rascunho | 7 |
+| Confirmado | 2 |
+| Separado | 3 |
+| Faturado | 5 |
 | Enviado | 7 |
-| Entregue | 296 |
-| Cancelado | 36 |
+| Entregue | 293 |
+| Cancelado | 30 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. Pro branco | 69 | R$ 77.929,60 | 53,2% |
-| SSD 480 GB Compacto cinza | 77 | R$ 20.390,40 | 41,5% |
-| Smartwatch esportivo | 21 | R$ 15.381,47 | 43,2% |
-| Memória RAM 16 GB Plus | 42 | R$ 15.000,62 | 38,1% |
-| Jogo de panelas 5 peças | 28 | R$ 10.453,99 | 33,8% |
+| Caixa de som portátil | 133 | R$ 24.379,24 | 39,6% |
+| Furadeira de impacto | 67 | R$ 19.625,31 | 38,9% |
+| Monitor LED 24 pol. | 22 | R$ 18.722,49 | 47,5% |
+| Teclado mecânico ABNT2 | 54 | R$ 12.935,55 | 46,8% |
+| SSD 480 GB | 44 | R$ 11.475,60 | 41,9% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Desinfetante 2 L | Acaba antes da reposição | 3 | 3 dias | 27 |
-| Caixa de som portátil | Acaba antes da reposição | 4 | 12 dias | 16 |
+| Caixa de som portátil | Acaba antes da reposição | 1 | 0 dias | 129 |
+| Caderno universitário 200 fls | Acaba antes da reposição | 7 | 7 dias | 38 |
+| Toalha de banho | Acaba antes da reposição | 5 | 3 dias | 38 |
+| SSD 480 GB | Acaba antes da reposição | 4 | 3 dias | 36 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 21/11/2026 | 81/81 | R$ 119.179,63 | 64 | 7 |
 | 20/11/2026 | 81/81 | R$ 158.483,35 | 75 | 7 |
 | 19/11/2026 | 81/81 | R$ 114.050,77 | 75 | 7 |
 | 18/11/2026 | 81/81 | R$ 143.534,49 | 69 | 6 |
@@ -94,4 +97,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 22/10/2026 | 79/79 | R$ 201.954,95 | 85 | 7 |
 | 21/10/2026 | 79/79 | R$ 103.301,86 | 84 | 7 |
 | 20/10/2026 | 79/79 | R$ 172.687,58 | 76 | 7 |
-| 19/10/2026 | 79/79 | R$ 143.410,94 | 77 | 7 |
