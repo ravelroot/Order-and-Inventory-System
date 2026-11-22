@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 21/11/2026 às 16:23 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 22/11/2026 às 16:47 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,54 +19,57 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 9,8 s |
+| Duração | 11,6 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 119.179,63 |
-| Pedidos faturados | 64 |
-| Ticket médio | R$ 1.862,18 |
-| Estoque a preço de custo | R$ 248.805,92 |
-| Unidades em estoque | 3.008 |
-| Produtos abaixo do mínimo | 7 |
+| Faturamento do mês | R$ 170.918,83 |
+| Pedidos faturados | 84 |
+| Ticket médio | R$ 2.034,75 |
+| Estoque a preço de custo | R$ 288.955,64 |
+| Unidades em estoque | 2.785 |
+| Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 7 |
-| Confirmado | 2 |
+| Rascunho | 0 |
+| Confirmado | 3 |
 | Separado | 3 |
-| Faturado | 5 |
-| Enviado | 7 |
-| Entregue | 293 |
-| Cancelado | 30 |
+| Faturado | 4 |
+| Enviado | 8 |
+| Entregue | 300 |
+| Cancelado | 32 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Caixa de som portátil | 133 | R$ 24.379,24 | 39,6% |
-| Furadeira de impacto | 67 | R$ 19.625,31 | 38,9% |
-| Monitor LED 24 pol. | 22 | R$ 18.722,49 | 47,5% |
-| Teclado mecânico ABNT2 | 54 | R$ 12.935,55 | 46,8% |
-| SSD 480 GB | 44 | R$ 11.475,60 | 41,9% |
+| SSD 480 GB | 103 | R$ 27.416,86 | 41,5% |
+| Memória RAM 16 GB Pro azul | 97 | R$ 25.370,14 | 43,6% |
+| Parafusadeira a bateria | 49 | R$ 24.817,38 | 36,1% |
+| Smartwatch esportivo | 33 | R$ 24.576,23 | 51,0% |
+| Monitor LED 24 pol. Plus cinza | 16 | R$ 19.197,45 | 28,7% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Caixa de som portátil | Acaba antes da reposição | 1 | 0 dias | 129 |
-| Caderno universitário 200 fls | Acaba antes da reposição | 7 | 7 dias | 38 |
-| Toalha de banho | Acaba antes da reposição | 5 | 3 dias | 38 |
-| SSD 480 GB | Acaba antes da reposição | 4 | 3 dias | 36 |
+| Jogo de panelas 5 peças | Sem saldo | 0 | 0 dias | 29 |
+| Hub USB-C 7 em 1 | Acaba antes da reposição | 1 | 1 dias | 60 |
+| Caderno universitário 200 fls | Acaba antes da reposição | 6 | 5 dias | 37 |
+| Kit pincéis artísticos | Acaba antes da reposição | 3 | 3 dias | 36 |
+| Nível de bolha 40 cm | Acaba antes da reposição | 3 | 6 dias | 22 |
+| Pote hermético kit 10 | Acaba antes da reposição | 3 | 8 dias | 19 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 22/11/2026 | 81/81 | R$ 170.918,83 | 84 | 6 |
 | 21/11/2026 | 81/81 | R$ 119.179,63 | 64 | 7 |
 | 20/11/2026 | 81/81 | R$ 158.483,35 | 75 | 7 |
 | 19/11/2026 | 81/81 | R$ 114.050,77 | 75 | 7 |
@@ -96,4 +99,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 23/10/2026 | 79/79 | R$ 149.252,96 | 81 | 7 |
 | 22/10/2026 | 79/79 | R$ 201.954,95 | 85 | 7 |
 | 21/10/2026 | 79/79 | R$ 103.301,86 | 84 | 7 |
-| 20/10/2026 | 79/79 | R$ 172.687,58 | 76 | 7 |
