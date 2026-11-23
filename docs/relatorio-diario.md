@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 22/11/2026 às 16:47 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 23/11/2026 às 20:59 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,56 +19,57 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 11,6 s |
+| Duração | 8,0 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 170.918,83 |
-| Pedidos faturados | 84 |
-| Ticket médio | R$ 2.034,75 |
-| Estoque a preço de custo | R$ 288.955,64 |
-| Unidades em estoque | 2.785 |
+| Faturamento do mês | R$ 185.877,52 |
+| Pedidos faturados | 88 |
+| Ticket médio | R$ 2.112,24 |
+| Estoque a preço de custo | R$ 288.911,01 |
+| Unidades em estoque | 2.887 |
 | Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 0 |
-| Confirmado | 3 |
+| Rascunho | 7 |
+| Confirmado | 2 |
 | Separado | 3 |
-| Faturado | 4 |
-| Enviado | 8 |
-| Entregue | 300 |
-| Cancelado | 32 |
+| Faturado | 2 |
+| Enviado | 13 |
+| Entregue | 286 |
+| Cancelado | 37 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| SSD 480 GB | 103 | R$ 27.416,86 | 41,5% |
-| Memória RAM 16 GB Pro azul | 97 | R$ 25.370,14 | 43,6% |
-| Parafusadeira a bateria | 49 | R$ 24.817,38 | 36,1% |
-| Smartwatch esportivo | 33 | R$ 24.576,23 | 51,0% |
-| Monitor LED 24 pol. Plus cinza | 16 | R$ 19.197,45 | 28,7% |
+| Memória RAM 16 GB Plus cinza | 159 | R$ 55.602,34 | 35,0% |
+| Teclado mecânico ABNT2 | 220 | R$ 46.005,72 | 31,2% |
+| Hub USB-C 7 em 1 | 74 | R$ 16.575,41 | 41,4% |
+| Caixa de som portátil | 33 | R$ 15.388,05 | 40,5% |
+| Smartwatch esportivo | 22 | R$ 13.802,00 | 29,1% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Jogo de panelas 5 peças | Sem saldo | 0 | 0 dias | 29 |
-| Hub USB-C 7 em 1 | Acaba antes da reposição | 1 | 1 dias | 60 |
-| Caderno universitário 200 fls | Acaba antes da reposição | 6 | 5 dias | 37 |
-| Kit pincéis artísticos | Acaba antes da reposição | 3 | 3 dias | 36 |
-| Nível de bolha 40 cm | Acaba antes da reposição | 3 | 6 dias | 22 |
-| Pote hermético kit 10 | Acaba antes da reposição | 3 | 8 dias | 19 |
+| Teclado mecânico ABNT2 | Sem saldo | 0 | 0 dias | 236 |
+| Memória RAM 16 GB Plus cinza | Acaba antes da reposição | 4 | 1 dias | 113 |
+| Hub USB-C 7 em 1 | Acaba antes da reposição | 2 | 1 dias | 58 |
+| Caneta esferográfica azul cx 50 | Acaba antes da reposição | 2 | 1 dias | 50 |
+| Faqueiro inox 24 peças | Acaba antes da reposição | 6 | 5 dias | 34 |
+| Cafeteira elétrica | Acaba antes da reposição | 3 | 4 dias | 19 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 23/11/2026 | 81/81 | R$ 185.877,52 | 88 | 6 |
 | 22/11/2026 | 81/81 | R$ 170.918,83 | 84 | 6 |
 | 21/11/2026 | 81/81 | R$ 119.179,63 | 64 | 7 |
 | 20/11/2026 | 81/81 | R$ 158.483,35 | 75 | 7 |
@@ -98,4 +99,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 24/10/2026 | 81/81 | R$ 139.830,84 | 83 | 7 |
 | 23/10/2026 | 79/79 | R$ 149.252,96 | 81 | 7 |
 | 22/10/2026 | 79/79 | R$ 201.954,95 | 85 | 7 |
-| 21/10/2026 | 79/79 | R$ 103.301,86 | 84 | 7 |
