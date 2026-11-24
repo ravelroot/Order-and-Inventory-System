@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 23/11/2026 às 20:59 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 24/11/2026 às 19:32 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,56 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 8,0 s |
+| Duração | 10,2 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 185.877,52 |
-| Pedidos faturados | 88 |
-| Ticket médio | R$ 2.112,24 |
-| Estoque a preço de custo | R$ 288.911,01 |
-| Unidades em estoque | 2.887 |
-| Produtos abaixo do mínimo | 6 |
+| Faturamento do mês | R$ 156.433,38 |
+| Pedidos faturados | 101 |
+| Ticket médio | R$ 1.548,85 |
+| Estoque a preço de custo | R$ 223.998,74 |
+| Unidades em estoque | 2.895 |
+| Produtos abaixo do mínimo | 8 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 7 |
+| Rascunho | 4 |
 | Confirmado | 2 |
-| Separado | 3 |
-| Faturado | 2 |
-| Enviado | 13 |
-| Entregue | 286 |
-| Cancelado | 37 |
+| Separado | 2 |
+| Faturado | 3 |
+| Enviado | 8 |
+| Entregue | 290 |
+| Cancelado | 41 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Memória RAM 16 GB Plus cinza | 159 | R$ 55.602,34 | 35,0% |
-| Teclado mecânico ABNT2 | 220 | R$ 46.005,72 | 31,2% |
-| Hub USB-C 7 em 1 | 74 | R$ 16.575,41 | 41,4% |
-| Caixa de som portátil | 33 | R$ 15.388,05 | 40,5% |
-| Smartwatch esportivo | 22 | R$ 13.802,00 | 29,1% |
+| Memória RAM 16 GB | 117 | R$ 41.122,72 | 35,1% |
+| Monitor LED 24 pol. | 12 | R$ 13.218,73 | 36,2% |
+| Webcam Full HD Compacto cinza | 67 | R$ 11.005,02 | 39,6% |
+| Smartwatch esportivo | 17 | R$ 10.684,08 | 26,6% |
+| Parafusadeira a bateria | 24 | R$ 8.736,00 | 34,7% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Teclado mecânico ABNT2 | Sem saldo | 0 | 0 dias | 236 |
-| Memória RAM 16 GB Plus cinza | Acaba antes da reposição | 4 | 1 dias | 113 |
-| Hub USB-C 7 em 1 | Acaba antes da reposição | 2 | 1 dias | 58 |
-| Caneta esferográfica azul cx 50 | Acaba antes da reposição | 2 | 1 dias | 50 |
-| Faqueiro inox 24 peças | Acaba antes da reposição | 6 | 5 dias | 34 |
-| Cafeteira elétrica | Acaba antes da reposição | 3 | 4 dias | 19 |
+| Papel sulfite A4 resma | Sem saldo | 0 | 0 dias | 42 |
+| Memória RAM 16 GB | Acaba antes da reposição | 3 | 1 dias | 73 |
+| Desinfetante 2 L | Acaba antes da reposição | 2 | 4 dias | 23 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 24/11/2026 | 81/81 | R$ 156.433,38 | 101 | 8 |
 | 23/11/2026 | 81/81 | R$ 185.877,52 | 88 | 6 |
 | 22/11/2026 | 81/81 | R$ 170.918,83 | 84 | 6 |
 | 21/11/2026 | 81/81 | R$ 119.179,63 | 64 | 7 |
@@ -98,4 +96,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 25/10/2026 | 81/81 | R$ 189.568,16 | 99 | 7 |
 | 24/10/2026 | 81/81 | R$ 139.830,84 | 83 | 7 |
 | 23/10/2026 | 79/79 | R$ 149.252,96 | 81 | 7 |
-| 22/10/2026 | 79/79 | R$ 201.954,95 | 85 | 7 |
