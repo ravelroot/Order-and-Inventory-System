@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 24/11/2026 às 19:32 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 25/11/2026 às 18:46 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,53 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 10,2 s |
+| Duração | 10,0 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 156.433,38 |
-| Pedidos faturados | 101 |
-| Ticket médio | R$ 1.548,85 |
-| Estoque a preço de custo | R$ 223.998,74 |
-| Unidades em estoque | 2.895 |
-| Produtos abaixo do mínimo | 8 |
+| Faturamento do mês | R$ 136.489,10 |
+| Pedidos faturados | 102 |
+| Ticket médio | R$ 1.338,13 |
+| Estoque a preço de custo | R$ 284.295,87 |
+| Unidades em estoque | 2.935 |
+| Produtos abaixo do mínimo | 6 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 4 |
-| Confirmado | 2 |
+| Rascunho | 8 |
+| Confirmado | 5 |
 | Separado | 2 |
-| Faturado | 3 |
+| Faturado | 4 |
 | Enviado | 8 |
-| Entregue | 290 |
-| Cancelado | 41 |
+| Entregue | 292 |
+| Cancelado | 31 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Memória RAM 16 GB | 117 | R$ 41.122,72 | 35,1% |
-| Monitor LED 24 pol. | 12 | R$ 13.218,73 | 36,2% |
-| Webcam Full HD Compacto cinza | 67 | R$ 11.005,02 | 39,6% |
-| Smartwatch esportivo | 17 | R$ 10.684,08 | 26,6% |
-| Parafusadeira a bateria | 24 | R$ 8.736,00 | 34,7% |
+| Monitor LED 24 pol. | 14 | R$ 14.675,07 | 45,7% |
+| Smartwatch esportivo | 30 | R$ 13.161,07 | 33,9% |
+| Monitor LED 24 pol. Compacto azul | 16 | R$ 13.142,05 | 32,2% |
+| Suporte para notebook Essencial cinza | 65 | R$ 11.569,10 | 39,5% |
+| Caixa de som portátil | 59 | R$ 10.863,94 | 40,1% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Papel sulfite A4 resma | Sem saldo | 0 | 0 dias | 42 |
-| Memória RAM 16 GB | Acaba antes da reposição | 3 | 1 dias | 73 |
-| Desinfetante 2 L | Acaba antes da reposição | 2 | 4 dias | 23 |
+| Cabo HDMI 2 m | Acaba antes da reposição | 5 | 1 dias | 74 |
+| Mouse sem fio Essencial cinza | Acaba antes da reposição | 6 | 2 dias | 71 |
+| Etiquetas adesivas cx 1000 | Acaba antes da reposição | 5 | 4 dias | 30 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 25/11/2026 | 81/81 | R$ 136.489,10 | 102 | 6 |
 | 24/11/2026 | 81/81 | R$ 156.433,38 | 101 | 8 |
 | 23/11/2026 | 81/81 | R$ 185.877,52 | 88 | 6 |
 | 22/11/2026 | 81/81 | R$ 170.918,83 | 84 | 6 |
@@ -95,4 +96,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 26/10/2026 | 81/81 | R$ 167.415,42 | 109 | 7 |
 | 25/10/2026 | 81/81 | R$ 189.568,16 | 99 | 7 |
 | 24/10/2026 | 81/81 | R$ 139.830,84 | 83 | 7 |
-| 23/10/2026 | 79/79 | R$ 149.252,96 | 81 | 7 |
