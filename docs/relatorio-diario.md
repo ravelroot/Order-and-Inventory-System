@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 25/11/2026 às 18:46 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 26/11/2026 às 18:40 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,53 +19,54 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 10,0 s |
+| Duração | 9,8 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 136.489,10 |
-| Pedidos faturados | 102 |
-| Ticket médio | R$ 1.338,13 |
-| Estoque a preço de custo | R$ 284.295,87 |
-| Unidades em estoque | 2.935 |
-| Produtos abaixo do mínimo | 6 |
+| Faturamento do mês | R$ 161.629,50 |
+| Pedidos faturados | 94 |
+| Ticket médio | R$ 1.719,46 |
+| Estoque a preço de custo | R$ 276.728,85 |
+| Unidades em estoque | 2.955 |
+| Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 8 |
-| Confirmado | 5 |
-| Separado | 2 |
-| Faturado | 4 |
-| Enviado | 8 |
+| Rascunho | 0 |
+| Confirmado | 4 |
+| Separado | 4 |
+| Faturado | 6 |
+| Enviado | 7 |
 | Entregue | 292 |
-| Cancelado | 31 |
+| Cancelado | 37 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Monitor LED 24 pol. | 14 | R$ 14.675,07 | 45,7% |
-| Smartwatch esportivo | 30 | R$ 13.161,07 | 33,9% |
-| Monitor LED 24 pol. Compacto azul | 16 | R$ 13.142,05 | 32,2% |
-| Suporte para notebook Essencial cinza | 65 | R$ 11.569,10 | 39,5% |
-| Caixa de som portátil | 59 | R$ 10.863,94 | 40,1% |
+| Teclado mecânico ABNT2 Compacto cinza | 75 | R$ 20.777,45 | 46,8% |
+| Teclado mecânico ABNT2 | 48 | R$ 20.497,80 | 33,9% |
+| Jogo de chaves 40 peças | 71 | R$ 14.442,56 | 33,0% |
+| Memória RAM 16 GB | 45 | R$ 14.288,39 | 27,9% |
+| Smartwatch esportivo | 17 | R$ 13.748,72 | 52,7% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Cabo HDMI 2 m | Acaba antes da reposição | 5 | 1 dias | 74 |
-| Mouse sem fio Essencial cinza | Acaba antes da reposição | 6 | 2 dias | 71 |
-| Etiquetas adesivas cx 1000 | Acaba antes da reposição | 5 | 4 dias | 30 |
+| Papel sulfite A4 resma Pro azul | Acaba antes da reposição | 3 | 1 dias | 78 |
+| Nível de bolha 40 cm | Acaba antes da reposição | 2 | 1 dias | 76 |
+| Garrafa térmica 1 L | Acaba antes da reposição | 4 | 3 dias | 59 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 26/11/2026 | 81/81 | R$ 161.629,50 | 94 | 7 |
 | 25/11/2026 | 81/81 | R$ 136.489,10 | 102 | 6 |
 | 24/11/2026 | 81/81 | R$ 156.433,38 | 101 | 8 |
 | 23/11/2026 | 81/81 | R$ 185.877,52 | 88 | 6 |
@@ -95,4 +96,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 27/10/2026 | 81/81 | R$ 248.082,31 | 111 | 6 |
 | 26/10/2026 | 81/81 | R$ 167.415,42 | 109 | 7 |
 | 25/10/2026 | 81/81 | R$ 189.568,16 | 99 | 7 |
-| 24/10/2026 | 81/81 | R$ 139.830,84 | 83 | 7 |
