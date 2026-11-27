@@ -7,7 +7,7 @@
 
 # Relatório diário
 
-Gerado automaticamente em 26/11/2026 às 18:40 (horário de Brasília) pelo GitHub Actions.
+Gerado automaticamente em 27/11/2026 às 18:24 (horário de Brasília) pelo GitHub Actions.
 
 A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com uma semente diferente, para mostrar o sistema funcionando de ponta a ponta.
 
@@ -19,53 +19,57 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | Testes que passaram | 81 |
 | Testes com falha | 0 |
 | Testes ignorados | 1 |
-| Duração | 9,8 s |
+| Duração | 8,6 s |
 
 ## Operação simulada do mês
 
 | Indicador | Valor |
 |---|---|
-| Faturamento do mês | R$ 161.629,50 |
-| Pedidos faturados | 94 |
-| Ticket médio | R$ 1.719,46 |
-| Estoque a preço de custo | R$ 276.728,85 |
-| Unidades em estoque | 2.955 |
+| Faturamento do mês | R$ 166.849,25 |
+| Pedidos faturados | 105 |
+| Ticket médio | R$ 1.589,04 |
+| Estoque a preço de custo | R$ 271.042,78 |
+| Unidades em estoque | 2.678 |
 | Produtos abaixo do mínimo | 7 |
 
 ### Pedidos por etapa
 
 | Etapa | Pedidos |
 |---|---:|
-| Rascunho | 0 |
+| Rascunho | 7 |
 | Confirmado | 4 |
-| Separado | 4 |
-| Faturado | 6 |
-| Enviado | 7 |
-| Entregue | 292 |
-| Cancelado | 37 |
+| Separado | 2 |
+| Faturado | 4 |
+| Enviado | 9 |
+| Entregue | 294 |
+| Cancelado | 30 |
 
 ### Mais vendidos em 30 dias
 
 | Produto | Unidades | Receita | Margem |
 |---|---:|---:|---:|
-| Teclado mecânico ABNT2 Compacto cinza | 75 | R$ 20.777,45 | 46,8% |
-| Teclado mecânico ABNT2 | 48 | R$ 20.497,80 | 33,9% |
-| Jogo de chaves 40 peças | 71 | R$ 14.442,56 | 33,0% |
-| Memória RAM 16 GB | 45 | R$ 14.288,39 | 27,9% |
-| Smartwatch esportivo | 17 | R$ 13.748,72 | 52,7% |
+| Monitor LED 24 pol. Essencial cinza | 38 | R$ 32.219,21 | 33,7% |
+| Jogo de panelas 5 peças | 39 | R$ 15.664,05 | 35,0% |
+| Teclado mecânico ABNT2 Compacto azul | 50 | R$ 14.711,86 | 51,1% |
+| Hub USB-C 7 em 1 | 65 | R$ 10.021,62 | 44,5% |
+| Webcam Full HD Pro cinza | 52 | R$ 9.660,38 | 29,4% |
 
 ### Reposição sugerida
 
 | Produto | Situação | Disponível | Cobertura | Comprar |
 |---|---|---:|---:|---:|
-| Papel sulfite A4 resma Pro azul | Acaba antes da reposição | 3 | 1 dias | 78 |
-| Nível de bolha 40 cm | Acaba antes da reposição | 2 | 1 dias | 76 |
-| Garrafa térmica 1 L | Acaba antes da reposição | 4 | 3 dias | 59 |
+| Teclado mecânico ABNT2 Compacto azul | Sem saldo | 0 | 0 dias | 55 |
+| Etiquetas adesivas cx 1000 | Sem saldo | 0 | 0 dias | 40 |
+| Grampeador de mesa | Acaba antes da reposição | 1 | 0 dias | 63 |
+| Hub USB-C 7 em 1 | Acaba antes da reposição | 28 | 13 dias | 47 |
+| Memória RAM 16 GB | Acaba antes da reposição | 4 | 4 dias | 35 |
+| Caderno universitário 200 fls | Acaba antes da reposição | 3 | 4 dias | 23 |
 
 ## Histórico (últimos 30 dias)
 
 | Data | Testes OK | Faturamento do mês | Pedidos faturados | Abaixo do mínimo |
 |---|---:|---:|---:|---:|
+| 27/11/2026 | 81/81 | R$ 166.849,25 | 105 | 7 |
 | 26/11/2026 | 81/81 | R$ 161.629,50 | 94 | 7 |
 | 25/11/2026 | 81/81 | R$ 136.489,10 | 102 | 6 |
 | 24/11/2026 | 81/81 | R$ 156.433,38 | 101 | 8 |
@@ -95,4 +99,3 @@ A operação abaixo é **simulada com dados fictícios**, gerados a cada dia com
 | 28/10/2026 | 81/81 | R$ 168.154,82 | 109 | 6 |
 | 27/10/2026 | 81/81 | R$ 248.082,31 | 111 | 6 |
 | 26/10/2026 | 81/81 | R$ 167.415,42 | 109 | 7 |
-| 25/10/2026 | 81/81 | R$ 189.568,16 | 99 | 7 |
